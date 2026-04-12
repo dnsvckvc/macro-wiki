@@ -1,0 +1,51 @@
+---
+title: "WTI"
+type: concept
+tags: [oil, benchmark, commodity]
+sources: [oil-has-turned-a-very-big-corner, crack-spreads-are-the-tell, oil-jobs-bond-failure-and-other-fun, we-need-to-talk-about-interest-rates-and-oil]
+last_updated: 2026-04-12
+---
+
+# WTI (West Texas Intermediate)
+
+The US crude oil benchmark, priced at Cushing, Oklahoma.
+
+## Pre-war fundamentals (per [[oil-has-turned-a-very-big-corner]], 28 January 2026)
+One month before the war, [[PauloMacro]] documented an extreme bearish consensus and positioning setup:
+- **Consensus:** GS $56, DB $55, JPM $42–58 for Brent in 2026. Kemp's 657-respondent survey: $62 for the next 5 years, "tightly clustered." Energy at 3% of S&P market cap; energy ETF assets below 2020 lows.
+- **Positioning:** Managed money WTI went net *short* in 4Q25 — the only precedent was late 2008 (Lehman). Combined WTI+Brent managed-money net long near $0 — a level seen only when WTI went negative in April 2020.
+- **Physical market contradicted the bear:** curves backwardated, Dated Brent persistently positive — "not the profile of a market rewarding storage."
+- **Supply:** US shale Permian plateau/rollover; Tier 1 acreage exhausted; breakevens $56–61/bbl. OPEC spare capacity 1–2mmbpd not 3–5mmbpd (per [[HFIResearch]] audit). IEA's 4mmbpd surplus forecast relies on overstated demand and supply assumptions ("missing barrels" revised higher years later).
+- **China:** building 250mmbbl of new storage (+700kbpd just to keep fill rates flat).
+
+This setup meant the war was a *catalyst* on top of a pre-existing structural bull case, not the sole driver of the oil trade.
+
+## 2026 price path (per [[we-need-to-talk-about-interest-rates-and-oil]])
+- **Pre-war (late Feb 2026):** ~$67.50/bbl.
+- **28 Feb 2026:** US and Israel launch a military offensive against Iran.
+- **Peak panic spike:** ~$115/bbl.
+- **After emergency global [[SPRRelease]]:** tamped back to ~$93/bbl, where it sits at the time of the essay.
+- **[[CrackSpreads]] peak:** ~$60/bbl on 20 March 2026 (per Paulo in [[crack-spreads-are-the-tell]]) — then began rolling over.
+
+## Physical-market distortion (per [[oil-jobs-bond-failure-and-other-fun]], 6 March 2026)
+[[PauloMacro]] argues oil is "absurdly underpriced" for what is happening:
+- **Brent 2m–3m backwardation regression** puts fair value at **$130, not $90** (red dot on the regression chart).
+- Dated Brent over front-month (the premium to take physical barrels now vs. next month) is at **Russia-invasion levels** — despite Brent being well below its $120s peak of 2022.
+- Dubai over Brent 2m swaps at **$10/bbl** — premiums East of Suez "blowing to the sky."
+- 1-year backward yield at **~20%**; front 2m/3m at $4 backward (peak Russia levels).
+- Jet fuel closed above **$180/bbl** equivalent.
+- The distortion is driven by: (1) Trump administration jawboning ([[SPRRelease]], fuel tax holiday, [[ScottBessent]] PPT rumors); (2) producer hedging compressing the forward curve (see [[tom-hanks-has-covid]] appendix); (3) the "Nothing Ever Happens" delusion.
+
+## Historical note
+Famously went *negative* on **20 April 2020** during the [[CovidOilCrash2020]]. That demand-shock episode is the structural mirror of the current supply-shock episode — [[PauloMacro]] uses the same [[CrackSpreads]] reading, inverted, to argue that crude *moons* this time rather than crashes (via [[InvertAlwaysInvert]]).
+
+## Connections
+- [[CrackSpreads]]
+- [[CovidOilCrash2020]]
+- [[StraitOfHormuz]]
+- [[SPRRelease]]
+- [[OilPriceRecessionDebate]]
+- [[PauloMacro]]
+- [[KevinMuir]]
+- [[HFIResearch]]
+- [[ShrubsRazor]]
