@@ -2,7 +2,7 @@
 title: "Liquidity Mechanics (TGA / RRP / Bank Reserves)"
 type: concept
 tags: [liquidity, fed, treasury, tga, rrp, reserves, market-structure]
-sources: [liquidity-drains, liquidity-drains-redux, the-north-star-vs-liquidity]
+sources: [liquidity-drains, liquidity-drains-redux, the-north-star-vs-liquidity, could-fed-liquidity-plunge-by-half]
 last_updated: 2026-04-12
 ---
 
@@ -38,9 +38,25 @@ The key insight across both the [[liquidity-drains-redux]] (August 2025) and [[t
 ## Role in the wiki
 Liquidity mechanics explain *why* the market bounced despite the [[NorthStar]] (Nash / Iran's strategy is unchanged) and the physical-world "Can't Print Molecules" reality. The bounce is real and mechanical, not a sign that the thesis is wrong — it just sets up a bigger snap-back when the liquidity tailwind fades and hedges have been stripped.
 
+## Howell's elegant formulation (per [[could-fed-liquidity-plunge-by-half]])
+**Liquidity = assets / duration.** Two ways to increase liquidity: grow the asset pool (same duration) or reduce average duration (same asset pool). The Fed can only do the latter (maturity transformation); the Treasury can do *both* (increase total debt + shift from notes to bills). This is why the coordination between Fed and Treasury is critical, and why Paulo's [[ScottBessent]] TGA observations are so load-bearing: Bessent's issuance timing *is* the coordination mechanism.
+
+**"Treasury QE" replacing "Fed QE":** The policy shift where Treasury bills replace Fed reserves as the primary liquidity instrument. Satisfies the administration's desire to reduce the Fed's influence — but requires explicit coordination that "rarely exists in practice."
+
+**Inelasticity at low reserves:** At lower reserve levels, the demand curve becomes more inelastic → small demand/supply shifts cause big rate swings. This is exactly what Paulo documented in [[liquidity-drains-redux]] (repo rates ticking toward the corridor ceiling) and what the [[StephenMiran]]/Fed paper ignores.
+
+## Relationship to the [[GlobalLiquidityCycle]] ([[MichaelHowell]])
+Paulo's TGA/RRP/bank-reserves framework is the **US micro-plumbing** layer. [[MichaelHowell]]'s ~65-month Global Liquidity Cycle ([[the-liquidity-tide-goes-out]]) is the **macro overlay**:
+- Howell explains *why* the broad tide is going out (the cycle peaked Q4 2025 / early 2026; central banks outside the US — ECB, BoE, BoJ — continue balance-sheet shrinkage; trillions in debt rollovers absorbing liquidity).
+- Paulo explains the *specific US mechanics* that create short-term counter-trend injections (Bessent TGA drawdown, Fed RMP) within that broader downswing.
+- Howell's key distinction — **level vs. momentum** — means the real economy can keep growing ($188T absolute liquidity) while risk-asset rallies fade (negative momentum). This is the macro frame for why "Can't Print Molecules" coexists with a still-functional economy.
+
 ## Connections
 - [[PauloMacro]]
 - [[ScottBessent]]
 - [[NorthStar]]
 - [[Degrossing]]
 - [[JeromePowell]]
+- [[GlobalLiquidityCycle]]
+- [[MichaelHowell]]
+- [[StephenMiran]]

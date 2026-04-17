@@ -2,7 +2,7 @@
 title: "WTI"
 type: concept
 tags: [oil, benchmark, commodity]
-sources: [oil-has-turned-a-very-big-corner, crack-spreads-are-the-tell, oil-jobs-bond-failure-and-other-fun, we-need-to-talk-about-interest-rates-and-oil]
+sources: [oil-has-turned-a-very-big-corner, crack-spreads-are-the-tell, oil-jobs-bond-failure-and-other-fun, we-need-to-talk-about-interest-rates-and-oil, macrovoices-528-rory-johnston]
 last_updated: 2026-04-12
 ---
 
@@ -35,6 +35,17 @@ This setup meant the war was a *catalyst* on top of a pre-existing structural bu
 - 1-year backward yield at **~20%**; front 2m/3m at $4 backward (peak Russia levels).
 - Jet fuel closed above **$180/bbl** equivalent.
 - The distortion is driven by: (1) Trump administration jawboning ([[SPRRelease]], fuel tax holiday, [[ScottBessent]] PPT rumors); (2) producer hedging compressing the forward curve (see [[tom-hanks-has-covid]] appendix); (3) the "Nothing Ever Happens" delusion.
+
+## Physical-vs-futures spread goes unprecedented (per [[macrovoices-528-rory-johnston]], 16 April)
+[[RoryJohnston]]'s second wiki source quantifies the Rozencwajg "forward curve hasn't repriced" thesis:
+- **Brent futures** (June delivery, Monday 14 April): ~$100/bbl.
+- **Dated Brent** (physical, 10-30 days ahead): **~$132/bbl.**
+- **Spread: ~$32/bbl.** *"Never exploded to that level before. Even in COVID, maximum was a couple of dollars."*
+- Add physical delivered premia ~$20 on top → **~$150/bbl physical.**
+- **HSBC CEO publicly quoted:** highest delivered barrel seen so far = **$286/bbl for a cargo delivered to Sri Lanka.**
+- Johnston: "If Hormuz remains closed for another month, I would be truly, truly shocked [if benchmarks don't catch up]." Arbitrage will eventually force the front-end futures up.
+
+**US Gulf Coast is now the global swing supplier** — China has blocked exports of refined products. Tankers inbound to the US because other regions will pay more than Americans. Mid-continent US is "arguably the most energy-secure region on the planet" (domestic refining + Canadian crude on pipelines). Coastal US will feel the shock.
 
 ## Historical note
 Famously went *negative* on **20 April 2020** during the [[CovidOilCrash2020]]. That demand-shock episode is the structural mirror of the current supply-shock episode — [[PauloMacro]] uses the same [[CrackSpreads]] reading, inverted, to argue that crude *moons* this time rather than crashes (via [[InvertAlwaysInvert]]).

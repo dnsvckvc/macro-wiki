@@ -2,7 +2,7 @@
 title: "SPR Release (April 2026)"
 type: concept
 tags: [oil, policy, spr, crisis]
-sources: [we-need-to-talk-about-interest-rates-and-oil, making-macro-great-again-quick-updates, the-north-star-vs-liquidity]
+sources: [we-need-to-talk-about-interest-rates-and-oil, making-macro-great-again-quick-updates, the-north-star-vs-liquidity, macrovoices-528-rory-johnston]
 last_updated: 2026-04-12
 ---
 
@@ -21,6 +21,13 @@ Per [[KevinMuir]] in [[we-need-to-talk-about-interest-rates-and-oil]]: the relea
 - Once there, there's not much room to keep going — and the SPR has to be refilled at some point, creating *additional* future demand not in the curve.
 - Draw rate of 1.2–1.4mmbpd is "a drop in the bucket" vs. 20mmbpd not transiting Hormuz.
 - The market "isn't even blinking anymore" at SPR-release headlines.
+
+## US policy pivot: from "let Iranian oil flow" to maximum-pressure blockade (per [[macrovoices-528-rory-johnston]])
+A key Johnston update on 16 April 2026 that adds a new dimension:
+- Weeks 1-5 of the war, the US *quietly allowed* Iranian oil to flow. Even **temporarily rolled back sanctions on Iranian floating storage** to get every barrel onto the market. Same philosophy as the 2022 Russia **price cap**: violator's oil still flows because the world needs the volume.
+- By week 7 (mid-April), the Trump admin has pivoted to **"maximum economic pressure"**: the sanctions waiver is not being renewed, and the US Navy has imposed a blockade on ships servicing Iranian ports.
+- If sustained, Iran's ~2mmbpd comes off the market → **shut-in Gulf production goes from 13mmbpd to 15mmbpd.**
+- Strategic rationale: until now, Iran captured windfall export profits during the war. The blockade makes Tehran share the pain. But Rory's warning: "battle of patience between Tehran and Trump on who's willing to bear the pain longer — and the pressure on the global economy keeps building while both sides wait."
 
 ## Why it matters for the wiki
 - Reinforces the [[PauloMacro]] framing in [[jumping-the-shark-again]] that "all available product — any grade, any owner, including SPR" is being forced to market: a supply-shock regime destroys the shut-in option. The SPR release is exactly that dynamic at policy level.

@@ -2,7 +2,7 @@
 title: "Credit Cycle"
 type: concept
 tags: [macro, credit, recession, consumer]
-sources: [liquidity-drains-redux, intensely-concerned-for-risk-with-a-catch, oil-jobs-bond-failure-and-other-fun, make-1973-great-again, jumping-the-shark-when-a-taco-is-not-a-taco, making-macro-great-again-quick-updates, economic-data-copper-rollovers-and-more, the-anatomy-of-a-crash]
+sources: [liquidity-drains-redux, intensely-concerned-for-risk-with-a-catch, oil-jobs-bond-failure-and-other-fun, make-1973-great-again, jumping-the-shark-when-a-taco-is-not-a-taco, making-macro-great-again-quick-updates, economic-data-copper-rollovers-and-more, the-anatomy-of-a-crash, macrovoices-525-lyn-alden, macrovoices-524-simon-white]
 last_updated: 2026-04-12
 ---
 
@@ -39,6 +39,29 @@ Paulo's earlier "Credit Enters Snapcount" series flagged CLOs, BDCs, and private
 - A few redemption requests at NAV force unlisted funds to sell **what they can, not what they want** — the *better* portion of the portfolio.
 - Investors who don't redeem get stuck with the garbage. "The first one to panic gets all his money back. The last one is left picking up the pieces."
 - As redemptions gate, investors sell *public* credit instead: IG and HY spreads rise, and — newly — IG/HY **implied vol is leading Treasury MOVE vol higher**. In 2022 rate vol led (it was a rate problem). This time credit vol leads. Paulo: *"This is both a credit issue and a rate issue!"*
+
+## The private-credit contagion debate: Alden vs. White
+The wiki's clearest intra-bear calibration disagreement.
+
+### [[LynAlden]]'s "contagion is limited" case (per [[macrovoices-525-lyn-alden]])
+[[LynAlden]] provides the wiki's most substantive pushback on the alarmist framing of private-credit-to-banking contagion:
+- Banks have collectively lent **~$1.9T to non-deposit financial institutions** (NBFIs, including private credit funds).
+- That's only **~7-8%** of total $25T US bank assets.
+- Contagion transmission is *further* risk-reduced: private credit funds must absorb substantial losses *before* it hits the bank that lent to them. So even multi-hundred-billion PC losses translate into a much smaller banking-system hit.
+- Individual bank failures are possible (oddly-concentrated exposures), but the aggregate US banking system is not nearly as vulnerable as 2007-08.
+- Google Trends for "private credit" is already at peak-2008-subprime levels — some of this bearish concern is already crowded.
+- **Caveat:** high rates from stagflation can pop bubbles (as energy spikes in 2007 helped pop subprime), so the transmission is real but indirect.
+- **Alden is still bearish on private credit investors themselves** — just less worried about the *banking-system contagion* path.
+
+### [[SimonWhite]]'s "subprime 2007 redux" case (per [[macrovoices-524-simon-white]])
+- **Bank lending to NBFIs has "mushroomed" over the last couple of years.** The *rate of growth* is the alarming number, not the stock.
+- AI coding agents eroding SaaS business models is the trigger: Cliffwater redemptions; JPM limiting lending to its own private funds; BDC share prices falling as the market prices in bad underlying loans.
+- *"Contained to subprime"* redux: the reassurance that PC losses stay in PC is the same misdirection as 2007.
+- **"Private credit fund within a private credit fund"** — literally CDO-squared. *"There's nothing new in finance."*
+- Greed/fear dynamics compound: off-grid from regulation, actors take more inflated risks to outperform peers.
+
+### Same facts, different conclusions
+Both Alden and White look at the same data (bank-NBFI loans ~$1.9T, ~7-8% of assets). Alden emphasizes the risk-reduced *transmission path* (PC funds must absorb large losses first). White emphasizes the *growth rate* (mushrooming). The wiki's synthesis: individual bank failures are likely under either view; systemic aggregate banking stress depends on how fast growth translates into the tail-risk scenarios White fears and Alden discounts. **Both views are reconcilable with the wiki's overall crash thesis** — Paulo/Howell/Muir's "Anatomy of a Crash" / debt-liquidity framework doesn't require the banking system to seize, only the credit markets and NBFIs.
 
 ## Private credit cockroaches emerging (per [[making-macro-great-again-quick-updates]], 12 March 2026)
 - Redemptions at **Cliffwater** and **Morgan Stanley** private credit funds.

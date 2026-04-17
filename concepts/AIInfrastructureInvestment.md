@@ -2,7 +2,7 @@
 title: "AI Infrastructure Investment"
 type: concept
 tags: [ai, capex, megacap, fcf]
-sources: [what-not-to-buy, jumping-the-shark-when-a-taco-is-not-a-taco, making-macro-great-again-quick-updates]
+sources: [what-not-to-buy, jumping-the-shark-when-a-taco-is-not-a-taco, making-macro-great-again-quick-updates, macrovoices-526-matt-barrie]
 last_updated: 2026-04-12
 ---
 
@@ -29,11 +29,23 @@ Per [[KevinMuir]] in [[what-not-to-buy]]:
 - AMZN and CRM hyperscaler bond issuances were not well-received by the market as of 12 March 2026.
 - This sits in the 2007 layer of the [[TurduckenOfMarketRisks]]: "opaque credit structures and circular shadow vendor financing for datacenters in the hundreds of billions."
 
+## The tech-industry-internal view (per [[macrovoices-526-matt-barrie]])
+[[MattBarrie]] confirms from *inside* the industry what Muir observes from the *valuation side*:
+- **$600B/year CapEx** across hyperscalers; projected $5.2T by 2030. CapEx now exceeds internal FCF.
+- **AI inference is loss-making at every price tier:** $20/month plan costs ~$20 to serve; $200/month plan costs ~$2K+. One user burned $51K in a single month. Each generation of model *increases* per-query token burn even as chips get cheaper (more reasoning, bigger context).
+- OpenAI losing **$70M/day** in 2026, scaling to $156M/day in 2027. Revenue ~$25B run rate.
+- The $122B fundraise is mostly **vendor financing** (Amazon $50B contingent on $100B spend; SoftBank via bridge loan; NVIDIA $30B in-kind GPUs) — only ~$25B in actual cash.
+- **No moat** in foundational models: "you can read 40 academic papers" (Ilya Sutskever); DeepSeek came from nowhere; zero lock-in.
+- Funding rounds too big for equity → turning to **debt** (Meta $30B from Blue Owl = biggest private credit round ever). The "SaaS is dead" pitch from AI companies destabilizes private credit holding SaaS debt.
+- **"The Fifth Industrial Revolution meets the Islamic Revolution"** — Middle East sovereign wealth diverts from AI funding to defense/energy/war.
+- The endgame: "Pay to PrAI" — forced per-token pricing that turns software development into a slot machine.
+
 ## Connections
 - [[MAG7]]
 - [[PriceToFreeCashFlow]]
 - [[KevinMuir]]
 - [[PauloMacro]]
+- [[MattBarrie]]
 - [[Oracle]]
 - [[TomHanksHasCovidMoment]]
 - [[TurduckenOfMarketRisks]]

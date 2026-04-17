@@ -2,7 +2,7 @@
 title: "Turducken of Market Risks"
 type: concept
 tags: [options, dealer-gamma, crash, 1987, market-structure, paulo-framework]
-sources: [the-anatomy-of-a-crash, jumping-the-shark-again]
+sources: [the-anatomy-of-a-crash, jumping-the-shark-again, risks-of-another-financial-crisis-part-2]
 last_updated: 2026-04-12
 ---
 
@@ -24,11 +24,22 @@ A concrete instantiation of the 1987 layer:
 - Delta-hedging cascade → VIX call chasing ("wingy vanna protection") → 0DTE retail put-buying.
 - Decaying [[TrumpPumps]] unable to offset.
 
+## Howell's "Not-GFC, GFC" — the institutional-level description (per [[risks-of-another-financial-crisis-part-2]])
+[[MichaelHowell]]'s structural analysis maps directly onto Paulo's trading-floor-level Turducken:
+- **The 2007 layer** (opaque credit, circular financing) is confirmed and deepened: Howell documents that NBFI balance sheets grew **3x faster** than banks since the GFC; they are more pro-cyclical, less regulated, no direct CB backstop; $111T of FX derivatives (90% USD) sit off-balance-sheet. The locus of systemic risk has shifted from banks to markets/NBFIs.
+- **The next crisis won't be a bank-funding sudden stop.** It will be a **Treasury or credit market seizure** where liquidity vanishes among NBFIs, forcing Fed intervention at a scale dwarfing 2008/09.
+- Marketable US Treasury debt has grown **5.3x** since end-2008 (now 2.3x bank credit). The Treasury market — once the deepest/most liquid — has shown "alarming fragility."
+- **Potential triggers Howell identifies:** external shock (Eurozone, yen spike), derivative blow-up (FX swap mismatches), fiscal panic (US debt sustainability buyers' strike).
+- Howell: *"Bull markets still climb a wall of worry, but financial crises increasingly smash into a [[WallOfDebt]]."*
+
 ## Connections
 - [[JPMCollarTrade]]
 - [[PauloMacro]]
 - [[KevinMuir]]
+- [[MichaelHowell]]
 - [[TomHanksHasCovidMoment]]
 - [[MAG7]]
 - [[AIInfrastructureInvestment]] — the vendor financing piece of the 2007 layer
 - [[AnatomyOfACrash]]
+- [[DebtLiquidityRatio]]
+- [[WallOfDebt]]

@@ -25,6 +25,22 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Jumping the Shark: When a TACO is Not a TACO](sources/jumping-the-shark-when-a-taco-is-not-a-taco.md) — Paulo Macro 10 March 2026: TACO half-life collapsing, commodities aren't a cartoon, Hormuz = 20% of global supply, hyperscalers may use oil crisis as cover to cut capex
 - [Making Macro Great Again — Quick Updates](sources/making-macro-great-again-quick-updates.md) — Paulo Macro 12 March 2026: supply-chain disruption is "Covid on steroids"; SPR math inadequate; dispersion Bros about to lose control; hyperscaler bonds trading badly
 - [The North Star vs. Liquidity](sources/the-north-star-vs-liquidity.md) — Paulo Macro 12 April 2026 (most recent): defines the North Star (Nash) as guiding principle; explains the bounce via TGA drawdown + hedge-fund short-covering; TACO Misconception; North Star unchanged; endorses Muir on MAG7
+- [The Liquidity Tide Goes Out](sources/the-liquidity-tide-goes-out.md) — Michael Howell 30 March 2026 (first third-party source): the ~65-month Global Liquidity Cycle has peaked; momentum fading; central bank divergence; level vs. momentum distinction
+- [Risks Of Another Financial Crisis — Part 1](sources/risks-of-another-financial-crisis-part-1.md) — Michael Howell 3 April 2026: the Debt/Liquidity Ratio as systemic barometer; $45–65T Wall of Debt arriving as the cycle turns; projected to breach 2.0x danger threshold in 2026
+- [Could Fed Liquidity Plunge By Half?](sources/could-fed-liquidity-plunge-by-half.md) — Michael Howell 1 April 2026: debunks Miran/Fed paper proposing $1.7T balance-sheet cut; liquidity = assets/duration; "Treasury QE" replacing "Fed QE"; the coordination problem
+- [Risks Of Another Financial Crisis — Part 2](sources/risks-of-another-financial-crisis-part-2.md) — Michael Howell 4 April 2026: the two-leg circular model (Refinancing + Collateral); four "New Fault Lines" since GFC; the "Not-GFC, GFC" — next crisis is a Treasury/NBFI seizure, not a bank run
+- [Bond Markets Point The Way](sources/bond-markets-point-the-way.md) — Michael Howell 6 April 2026: Iran hits liquidity worse than GDP (~20% shock if sustained); falling term premia = demand for safety; Speculation → Turbulence (Risk Off) next; "markets move in cycles, not themes"
+- [A Phoney Rally](sources/a-phoney-rally.md) — Michael Howell 12 April 2026: the bounce is not durable; Fed RMP support insufficient; yield curve flattening + humped = Risk Off pattern; strongly avoid BTD; "bear markets appear out of blue skies"
+- [MacroVoices #527 — Adam Rozencwajg](sources/macrovoices-527-adam-rozencwajg.md) — Adam Rozencwajg 9 April 2026 (fourth author): biggest physical dislocation ever; IEA surplus was fiction; market was balanced; fertilizer/food asymmetry; forward curve's next shoe to drop; oil outperforms gold for years
+- [MacroVoices #526 — Matt Barrie](sources/macrovoices-526-matt-barrie.md) — Matt Barrie 2 April 2026 (sixth author): AI unit economics bonfire; $122B round is vendor financing; inference loss-making; "Pay to PrAI"; private credit funding AI; Oracle 18% layoffs; "5th Industrial Revolution meets the Islamic Revolution"
+- [MacroVoices #526 — Dr. Anas Al-Hajji](sources/macrovoices-526-dr-anas-al-hajji.md) — Dr. Anas Al-Hajji 2 April 2026 (seventh author): insurance-closure thesis for Hormuz; still short 10-12mmbpd after mitigation; demand destruction at Brent ~$160; price differentials > price levels; post-crisis every country links energy to national security
+- [MacroVoices #525 — Lyn Alden](sources/macrovoices-525-lyn-alden.md) — Lyn Alden 26 March 2026 (eighth author / first partial counterpoint): multipolar-world framework; $150 oil sustainable ($200+ crippling); inflation spikes fade absent money-supply growth; private-credit-to-banking contagion limited; Warsh≈Powell right now
+- [MacroVoices #525 — Michael Every](sources/macrovoices-525-michael-every.md) — Michael Every 26 March 2026 (ninth author / geopolitical-strategic): fog of war + media-narrative warfare; 6/138 Hormuz transit reality; "1956 Suez-style crisis" if US walks away; stablecoin statecraft as next-phase architecture
+- [MacroVoices #524 — Rory Johnston](sources/macrovoices-524-rory-johnston.md) — Rory Johnston 19 March 2026 (tenth author / oil specialist): Trump admin had no plan; Venezuela template failed for Iran; 1980s tanker wars never halted flow; ships not moving because traders expect TACO; $200 crude "bare minimum"; export-controls risk
+- [MacroVoices #528 — Rory Johnston](sources/macrovoices-528-rory-johnston.md) — Rory Johnston 16 April 2026 (second appearance): transit 7 ships/day vs 120-140; zero non-Iranian VLCCs since Saturday; US pivot to maximum-pressure blockade of Iran; air pocket hits North America week 6; unprecedented $32 Dated Brent/futures spread; HSBC CEO cites $286/bbl cargo to Sri Lanka
+- [MacroVoices #524 — Simon White](sources/macrovoices-524-simon-white.md) — Simon White 19 March 2026 (eleventh author / Bloomberg macro strategist): three-act inflation play (1970s analog); inflation mispriced; fertilizer leads food CPI by 6 months; Warsh = Arthur Burns not Volcker; private credit = subprime 2007 echo (disagrees with Alden on bank contagion)
+- [MacroVoices #528 — Luke Gromen](sources/macrovoices-528-luke-gromen.md) — Luke Gromen 16 April 2026 (twelfth author / fiscal macro): Suez 1956 as base case; true interest expense = 102% of receipts; NIIP unwind ("Treasuries below food on Maslow's"); Trump's 4.4% yield bogey + $15B Bessent buyback; 37% UST issuance = Cayman Islands
+- [MacroVoices #527 — Jim Bianco](sources/macrovoices-527-jim-bianco.md) — Jim Bianco 9 April 2026 (fifth author): ceasefire isn't real; Mosaic Doctrine = Iran can't be forced to stop; "$3/day" crude; nominal GDP framework for the Fed; "3-ish percent inflation world"
 
 ## Entities
 - [Kevin Muir](entities/KevinMuir.md) — macro analyst / trader, publishes as "the MacroTourist"
@@ -50,6 +66,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Sal Mercogliano](entities/SalMercogliano.md) — maritime historian, detailed the months-long energy shipping damage from the Hormuz closure
 - [Oracle](entities/Oracle.md) — hyperscaler/credit-downgrade posterchild, potential equities Tom-Hanks trigger via capex-cut cover
 - [Robert Pape](entities/RobertPape.md) — political scientist, Escalation Trap framework independently confirming Paulo's North Star
+- [Michael Howell](entities/MichaelHowell.md) — CrossBorder Capital / GLIndexes founder, the "Liquidity King"; Global Liquidity Cycle framework
+- [George Noble](entities/GeorgeNoble.md) — ex-Fidelity Overseas manager, colleague of Peter Lynch; hosted the Howell Spaces
+- [Stephen Miran](entities/StephenMiran.md) — Trump CEA chair; co-authored Fed paper proposing $1.7T balance-sheet cut that Howell debunks
+- [Adam Rozencwajg](entities/AdamRozencwajg.md) — Goehring & Rozencwajg co-founder; physical-commodity/geology specialist; fourth author
+- [Jim Bianco](entities/JimBianco.md) — Bianco Research founder; macro/bond specialist; fifth author; military-technical analysis of Hormuz + nominal GDP framework for the Fed
+- [Matt Barrie](entities/MattBarrie.md) — Freelancer.com CEO; sixth author; tech-industry-internal view of the AI capex bonfire and unit economics
+- [Dr. Anas Al-Hajji](entities/DrAnasAlHajji.md) — Energy Outlook Advisors founder; seventh author; Middle East energy intelligence; insurance-closure thesis; shortage math
+- [Lyn Alden](entities/LynAlden.md) — Lyn Alden Investment Strategy founder; *Broken Money* author; eighth author; first partial counterpoint; multipolar-world framework
+- [Michael Every](entities/MichaelEvery.md) — Rabobank Global Strategist; ninth author; geopolitical-strategic / realpolitik voice
+- [Rory Johnston](entities/RoryJohnston.md) — Commodity Context founder; tenth author; oil market specialist
+- [Simon White](entities/SimonWhite.md) — Bloomberg macro strategist; *Macroscope* column; eleventh author; 1970s three-act inflation framework
+- [Luke Gromen](entities/LukeGromen.md) — Forest for the Trees founder; twelfth author; fiscal/dollar-system macro
 - [HFI Research](entities/HFIResearch.md) — independent oil research; OPEC spare capacity audit; Kpler data
 
 ## Concepts
@@ -95,5 +123,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Liquidity Mechanics](concepts/LiquidityMechanics.md) — TGA/RRP/bank reserves framework explaining the April 2026 risk bounce; TGA tailwind reverses after April 15
 - [Shrub's Razor](concepts/ShrubsRazor.md) — "the funniest, most absurd outcome is also the most likely one"
 - [Broadening Out](concepts/BroadeningOut.md) — late-cycle trap: small caps outperform, then large caps have one final jam before the ultimate top
+- [Global Liquidity Cycle](concepts/GlobalLiquidityCycle.md) — Howell's ~65-month sine-wave framework; peaked Q4 2025; the macro overlay for Paulo's US plumbing
+- [Debt/Liquidity Ratio](concepts/DebtLiquidityRatio.md) — Howell's systemic-risk barometer; avg 2.0x; projected to breach danger threshold 2026, retest 2.3x (2010 peak) by 2030
+- [Wall of Debt](concepts/WallOfDebt.md) — ~$45T advanced / $65T global in COVID-era debt maturing by 2030; arriving as the liquidity cycle turns down
+- [Stablecoin Statecraft](concepts/StablecoinStatecraft.md) — Michael Every's framework: post-conflict financial architecture via US or Chinese stablecoins
 
 ## Syntheses
