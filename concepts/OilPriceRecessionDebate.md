@@ -2,8 +2,8 @@
 title: "Oil Price Recession Debate"
 type: concept
 tags: [macro, oil, monetary-policy, recession, academic]
-sources: [we-need-to-talk-about-interest-rates-and-oil]
-last_updated: 2026-04-12
+sources: [we-need-to-talk-about-interest-rates-and-oil, making-sense-of-the-last-two-months]
+last_updated: 2026-04-19
 ---
 
 # Oil Price Recession Debate
@@ -26,6 +26,13 @@ Argued the debate was confused because it failed to distinguish between **demand
 
 ## Why it matters in April 2026
 Per Muir, *the market is not going to let us run this experiment*. Global central banks haven't actively tightened yet, but the forward curve has already repriced to 100% probability of multiple hikes (UK, ECB, BoC) and to zero cuts (US). **We get the energy spike and the rate rise simultaneously** — the combination both Bernanke and Hamilton would have agreed is the worst case. The current episode is also unambiguously a **supply shock** in [[LutzKilian]]'s sense, and supply-shock oil spikes are the ones most strongly associated with recessions.
+
+## The transmission channel made visible (per [[making-sense-of-the-last-two-months]])
+Muir's 19 April retrospective identifies the *specific* price link that transmitted the oil shock into rates in March 2026:
+- The **Dec 2026 WTI contract** became the best single barometer for **Dec SOFR** year-end pricing.
+- Each tick higher in Dec 2026 WTI lifted Dec 2026 SOFR. The shock repriced Dec SOFR from 2.05% (pre-war) → **2.95%** at the oil peak — a ~90bps forward-rate tightening sourced directly from longer-dated crude.
+- **Front-end swaption vol (3m1y) reached Liberation Day levels; 3m10y barely moved** — the debate's "policy response" channel wasn't a hypothesis, it printed in real time on the vol surface.
+- Muir: *"The market was more sensitive to longer-dated crude than I had ever imagined. The Dec 2026 crude oil future was setting the tone for front-end interest rates, which then translated into other financial assets like equities."* This is the empirical Hamilton result at the price-discovery level, arriving before the Fed has touched policy.
 
 ## Connections
 - [[KevinMuir]]

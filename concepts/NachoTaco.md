@@ -2,8 +2,8 @@
 title: "NACHO / TACO"
 type: concept
 tags: [meme, politics, trading, trump]
-sources: [jumping-the-shark-when-a-taco-is-not-a-taco, jumping-the-shark-again, the-north-star-vs-liquidity, macrovoices-524-rory-johnston, macrovoices-528-rory-johnston]
-last_updated: 2026-04-12
+sources: [jumping-the-shark-when-a-taco-is-not-a-taco, jumping-the-shark-again, the-north-star-vs-liquidity, macrovoices-524-rory-johnston, macrovoices-528-rory-johnston, making-sense-of-the-last-two-months, my-buddy-marko-broke-the-market]
+last_updated: 2026-04-20
 ---
 
 # NACHO / TACO
@@ -33,6 +33,19 @@ This means the TACO Misconception is operational *at the physical-shipping level
 ### Concrete instance: the Saturday 3-VLCC spike (per [[macrovoices-528-rory-johnston]])
 On "ceasefire weekend" (~12 April), **3 VLCCs** transited the Strait — the first real volume-weighted move. Markets took it as resolution. Oil fell ~$10/bbl. S&P rallied back above pre-war levels. But it wasn't sustained — **zero non-Iranian VLCCs have transited since.** This is the [[MichaelEvery]] "media narrative warfare" thesis confirmed operationally: a single day of VLCC movement was enough to convince markets of resolution, even though the underlying physical situation didn't change.
 
+## Papic's "lands the plane" reframing (per [[my-buddy-marko-broke-the-market]], 6 March 2026)
+[[MarkoPapic]] offers a more structural description of the TACO pattern:
+> *"He doesn't really chicken out. He gets a deal. And the deal, you know, the deal doesn't get him to the moon, but he gets to go to the top of his house."*
+
+Papic prefers the term *"lands the plane"* — implying a genuine negotiation with a sub-optimal but acceptable outcome, not cowardice. The mechanism is symmetric across the Canada / NATO / China / tariffs / crypto cycles: Trump escalates, counterparties negotiate, deal gets done.
+
+**But the Iran game has a different counterparty.** Papic: *"In every previous situation where President's delicious taco was eaten whole by his counterparts — in this particular case, the Islamic Republic might say 'take your taco and shove it exactly where you should shove it.'"* Papic is the earliest voice in the wiki to explicitly identify this as the break from every prior TACO episode.
+
+## April 7 two-week ceasefire is a real event (per [[making-sense-of-the-last-two-months]])
+The wiki had previously treated ceasefire talk as TACO-style rhetoric. [[KevinMuir]]'s 19 April retrospective records a concrete institutional step: **on 7 April 2026, Iran and the US agreed to a two-week ceasefire.** S&P 500 gapped through its 200-day MA in the immediate response; Nasdaq then ran 13 consecutive up days (longest streak since 15 July 2013). This is different from a TACO headline — it's a formal pause — but the underlying Nash game is unchanged:
+- [[PauloMacro]]'s 12 April ([[the-north-star-vs-liquidity]]) and 21 April ([[oil-and-retail]]) pieces both post-date the ceasefire and maintain the [[NorthStar]] — Iran hasn't relinquished Hormuz, no barrels have been added, [[SaudiArabia]]/[[UAE]] remain shut-in, and Johnston's [[macrovoices-528-rory-johnston]] documents zero non-Iranian VLCCs transiting in the days after.
+- The ceasefire narrative validates [[PeaceDividend]] partial pricing-in, but the physical and positioning data contradict it.
+
 ## Connections
 - [[DonaldTrump]]
 - [[LeShrub]]
@@ -41,3 +54,5 @@ On "ceasefire weekend" (~12 April), **3 VLCCs** transited the Strait — the fir
 - [[TrumpPumps]]
 - [[NorthStar]]
 - [[RoryJohnston]]
+- [[KevinMuir]]
+- [[PeaceDividend]]

@@ -2,8 +2,8 @@
 title: "Gold"
 type: concept
 tags: [commodity, metals, central-banks, reserve-asset]
-sources: [buying-gold-again, the-anatomy-of-a-crash, make-1973-great-again, macrovoices-527-adam-rozencwajg, macrovoices-528-luke-gromen]
-last_updated: 2026-04-12
+sources: [buying-gold-again, the-anatomy-of-a-crash, make-1973-great-again, macrovoices-527-adam-rozencwajg, macrovoices-528-luke-gromen, making-sense-of-the-last-two-months, geopolitics-doesnt-change-prices-in-the-long-run]
+last_updated: 2026-04-19
 ---
 
 # Gold
@@ -19,11 +19,25 @@ Precious metal; historical reserve asset and currency. In the wiki context, trea
 - Muir: the **$4100 Monday-morning washout** is likely the low; he is long gold outright and considering adding gold miners. Even more constructive on gold vs. S&P 500.
 - Per [[PauloMacro]] in [[the-anatomy-of-a-crash]], gold was the **late-January 2026 trigger** of the [[RollingVARShock]] — the first strategy blowup that touched off the sequential cascade through quant, L/S, and rate PMs. That framing treats the same gold correction as a *market-structure* signal; Muir provides the positioning explanation.
 
+### Retrospective confirmation (per [[making-sense-of-the-last-two-months]])
+[[KevinMuir]]'s 19 April retrospective quantifies and sharpens the explanation:
+- **Gold rallied one day at the war's outbreak, then collapsed $1,400 over the next two weeks.**
+- Post-hoc attribution: *"Too many weak longs chasing the recent best-performing asset were forced to de-lever. Adding to this, some Gulf States and **Turkey** had to sell gold to fund the war, creating a volatile situation that led to a severe downturn."*
+- Turkey is a new wiki data point — alongside Gulf States — as a gold seller during the corrective phase.
+
 ## Fundamental thesis — per Muir
 - Long-run driver is the [[LedgerToRealWorldThesis]]: the West's 2022 decision to confiscate Russian financial assets permanently changed central-bank reserve composition. Paper reserves denominated in a currency whose issuer can freeze them are no longer a neutral store of value.
 - The [[PBOC]] (and other non-aligned central banks) are structural buyers trying to maximize gold accumulation over the next decade.
 - "Best bull markets have the most violent corrections."
 - Short-term drivers (USD, real rates, inflation prints) are *not* what moves gold over the long run.
+
+## The regression-break evidence (per [[geopolitics-doesnt-change-prices-in-the-long-run]])
+In his 12 March 2026 piece, [[KevinMuir]] operationalizes the thesis with his own multiple regression: gold vs. 5-year TIPS yield + DXY, trained 2007 → end-2022.
+- **24 Feb 2022 → mid-2022:** Gold rallied one day on Russia's invasion, hit a high the next month, was *down on the year* by summer. Surface-level [[FadeGeopoliticalAngst]] signal. Actual driver: Russia forced to sell gold to pay for goods as it was cut out of the global financial system.
+- **Late 2022 → 2025:** Fed tightening sent real yields and DXY soaring; the regression predicted gold to collapse toward $1,250 (where gold bulls were waiting to buy the model). Gold *diverged sharply higher* instead.
+- Muir's counsel to clients throughout those four years: *"Throw that model out because GEOPOLITICS HAD BROKEN IT."*
+
+The break is the empirical signature of the [[LedgerToRealWorldThesis]] working through the market despite the model (and despite Papic's default fade-the-angst rule). It is the wiki's canonical test case for "transformative-event exceptions" — and the pre-registered hypothesis for how an equity regression break would look if the Iran war turns out to be similarly transformative.
 
 ## 1973 analog (per [[make-1973-great-again]])
 In 1973, precious metals **initially sold off** after the Yom Kippur War began, but by December they were ripping higher and **doubled** into mid-Q1 1974. This maps directly to the 2026 pattern: gold's 27% correction in the first weeks of the war (driven by positioning) followed by Muir re-entering long on 27 March and calling the $4100 washout as the low. The 1973 precedent suggests the post-correction rally can be explosive.

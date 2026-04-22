@@ -2,8 +2,8 @@
 title: "Degrossing"
 type: concept
 tags: [hedge-fund, risk, forced-selling, market-structure]
-sources: [the-anatomy-of-a-crash, the-north-star-vs-liquidity]
-last_updated: 2026-04-12
+sources: [the-anatomy-of-a-crash, the-north-star-vs-liquidity, making-sense-of-the-last-two-months]
+last_updated: 2026-04-19
 ---
 
 # Degrossing
@@ -29,6 +29,16 @@ The risk-asset rally into early April led fast money to **dump hedges aggressive
 - Retail panicked in late March (sold, bought puts) and is now getting squeezed.
 
 Paulo's read: this is *not* bullish. Hedges are gone, fast money is exposed again. *"Rallies in bear trends make the market weaker."* When the [[LiquidityMechanics]] tailwind from [[ScottBessent]]'s TGA drawdown reverses after April 15 tax receipts, there is no hedge cushion left for the next leg down.
+
+## Degrossing as the *first-stage* war signature (per [[making-sense-of-the-last-two-months]])
+[[KevinMuir]]'s 19 April retrospective identifies degrossing as the characteristic signature of **the first two weeks of the war**, with SPX barely down at the index level but:
+- **Gold collapsed $1,400** over the two weeks — weak longs on the war's best-performing asset de-levered; Gulf States and Turkey sold gold to fund the war.
+- **L/S community's largest losses since Liberation Day** — "dramatic reductions in both longs *and* shorts" per GS PB data.
+- Sector-internal chop: industrials/materials hammered, energy bid — but index prints looked placid.
+
+Muir: *"The first part of the decline was more about levered players getting themselves back closer to neutral. They sold down the stuff they were overweight and brought in their shorts. It wasn't an across-the-board selling down of beta, but a reduction in gross exposures… This is just the new reality of an environment dominated by podshops and quant funds."*
+
+This is *the* data point showing degrossing is now the baseline risk-off reaction function, not an extreme stress signature.
 
 ## Connections
 - [[PauloMacro]]

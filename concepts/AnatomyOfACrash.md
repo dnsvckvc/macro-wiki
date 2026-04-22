@@ -2,8 +2,8 @@
 title: "Anatomy of a Crash"
 type: concept
 tags: [chart-pattern, crash, paulo-framework, 1987, 1929]
-sources: [intensely-concerned-for-risk-with-a-catch, the-anatomy-of-a-crash, the-anatomy-of-a-crash-revisited, jumping-the-shark-again]
-last_updated: 2026-04-12
+sources: [intensely-concerned-for-risk-with-a-catch, the-anatomy-of-a-crash, the-anatomy-of-a-crash-revisited, jumping-the-shark-again, making-sense-of-the-last-two-months, outlining-the-bull-and-bear-arguments]
+last_updated: 2026-04-20
 ---
 
 # Anatomy of a Crash
@@ -38,6 +38,20 @@ In [[intensely-concerned-for-risk-with-a-catch]], three weeks before the war, Pa
   - NYSE Comp: 12 Feb 2026
 - The divergence across indices is "the most notable I think I have seen in my career."
 - Paulo bought near-dated VIX calls on 14 March 2026 — the first time in **nearly sixteen years**.
+
+## Muir's complementary 4-stage retrospective (per [[making-sense-of-the-last-two-months]], 19 April 2026)
+[[KevinMuir]] decomposes the same two-month window into four mechanical stages that overlay onto Paulo's pattern without contradicting it:
+
+| Stage | Muir | Date | Maps onto Paulo's pattern |
+|---|---|---|---|
+| 1 | First part of decline — de-grossing | 28 Feb → mid-Mar | Paulo's stage 1 "initial correction" visible under the hood |
+| 2 | Second part of decline — oil → SOFR → JPM squeeze | second half of March, **low 30 March** | Paulo's stage 2 retest / minor breach (into 6475 JPM strike) |
+| 3 | First part of rally — JPM roll → gamma lifted + 2021-style squeezes ([[AvisBudgetCar]]) | 31 Mar → 6 Apr | Paulo's stage 3 "1-2 day final bounce" with "all clear" signal |
+| 4 | Second part of rally — **7 April two-week ceasefire** → SPX above pre-war; Nasdaq 13 up days | 7 Apr → 19 Apr | Paulo's stage 3 extended; stage 4 collapse pending |
+
+[[WarrenPies]] stat: *"rally 10% in 10 days into new all-time highs"* — the only prior instance was **21 March 2000**. Muir: *"when a market behaves in a way that has never happened before, it worries me."* The March-2000 precedent is itself a stage-3-ish-top datapoint (last few weeks of the dotcom bubble) — compatible with, not contrary to, Paulo's framework.
+
+In [[outlining-the-bull-and-bear-arguments]] (20 April 2026), Muir explicitly ties the current rally to the pattern: *"the sharpest rallies often occur within bear markets."* He acknowledges a "bear market" label is technically premature, but "the frantic nature of the buying scares me rather than reassures." This is Muir's version of Paulo's stage-3 "1-2 day final bounce / all clear because everyone is bearish."
 
 ## Connections
 - [[PauloMacro]]

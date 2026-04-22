@@ -2,8 +2,8 @@
 title: "Ledger to Real World Thesis"
 type: concept
 tags: [gold, reserves, central-banks, geopolitics, russia, sanctions]
-sources: [buying-gold-again]
-last_updated: 2026-04-12
+sources: [buying-gold-again, geopolitics-doesnt-change-prices-in-the-long-run]
+last_updated: 2026-03-12
 ---
 
 # "Moving From The Ledger To The Real World" Thesis
@@ -20,7 +20,20 @@ Consequence: central banks have a new structural reason to diversify out of pape
 ## Why Muir keeps referencing it
 It's the load-bearing reason he believes the [[Gold]] bull market has an underappreciated structural buyer. In [[buying-gold-again]] he uses it to argue that the 2026 27% gold correction is *positioning noise* — the fundamental driver ([[PBOC]] trying to maximize long-run gold accumulation) is unchanged, and arguably strengthened by the 2026 geopolitical escalation.
 
+## The empirical signature — the regression break (per [[geopolitics-doesnt-change-prices-in-the-long-run]])
+Muir's 12 March 2026 piece makes the thesis quantitative via his own multiple regression model of gold vs. (a) 5-year TIPS yield and (b) DXY:
+- **2007 → end-2022:** the model explained the majority of gold's variance.
+- **Late 2022 → 2025:** the Fed's aggressive tightening cycle sent real yields and DXY soaring, which would have predicted gold to collapse toward $1,250 (where bulls were waiting to buy the model). Instead, gold diverged sharply higher from the model.
+- Muir's conclusion: *"Throw that model out because GEOPOLITICS HAD BROKEN IT."*
+- The divergence is the [[PBOC]] / non-aligned-central-bank structural buyer — the mechanical footprint of the Ledger-to-Real-World thesis.
+
+This is the wiki's quantitative anchor for the claim that some geopolitical events *do* have lasting price impact — the exception clause inside [[MarkoPapic]]'s [[GeopoliticalAlpha]] framework, here made empirically legible.
+
 ## Connections
 - [[Gold]]
 - [[PBOC]]
 - [[KevinMuir]]
+- [[LastLibertarianSanFrancisco]]
+- [[FadeGeopoliticalAngst]]
+- [[GeopoliticalAlpha]]
+- [[geopolitics-doesnt-change-prices-in-the-long-run]]

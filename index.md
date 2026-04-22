@@ -41,6 +41,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [MacroVoices #524 — Simon White](sources/macrovoices-524-simon-white.md) — Simon White 19 March 2026 (eleventh author / Bloomberg macro strategist): three-act inflation play (1970s analog); inflation mispriced; fertilizer leads food CPI by 6 months; Warsh = Arthur Burns not Volcker; private credit = subprime 2007 echo (disagrees with Alden on bank contagion)
 - [MacroVoices #528 — Luke Gromen](sources/macrovoices-528-luke-gromen.md) — Luke Gromen 16 April 2026 (twelfth author / fiscal macro): Suez 1956 as base case; true interest expense = 102% of receipts; NIIP unwind ("Treasuries below food on Maslow's"); Trump's 4.4% yield bogey + $15B Bessent buyback; 37% UST issuance = Cayman Islands
 - [MacroVoices #527 — Jim Bianco](sources/macrovoices-527-jim-bianco.md) — Jim Bianco 9 April 2026 (fifth author): ceasefire isn't real; Mosaic Doctrine = Iran can't be forced to stop; "$3/day" crude; nominal GDP framework for the Fed; "3-ish percent inflation world"
+- [Oil & Retail](sources/oil-and-retail.md) — Paulo Macro 21 April 2026 (most recent): the Big-Beautiful-Deal is still bearish (GCC keeps shut-in indefinitely if Iran gets Hormuz); Shrub's Razor — peace deal makes crude rip; retail short-oil absurdity in SCO ($1bn AUM, 2x inverse WTI, vol drag + negative carry) and USO short interest (10.7mn shares at 7.9% borrow vs SCO at 2.7%)
+- [Making Sense of the Last Two Months](sources/making-sense-of-the-last-two-months.md) — Kevin Muir 19 April 2026 (part 1 of 2 retrospective): four-stage breakdown of the war episode; Dec 2026 WTI was the forward-SOFR barometer (Dec SOFR 2.05%→2.95%); 30 March low = JPM roll date; 7 April two-week ceasefire → Nasdaq 13 up days (first since Jul 2013); "rally 10% in 10 days into ATH" prior only on 21 Mar 2000
+- [Outlining the Bull and Bear Arguments](sources/outlining-the-bull-and-bear-arguments.md) — Kevin Muir 20 April 2026 (part 2 of 2): steel-mans 6 bull pillars (Papic fade / EPS rising / Don't Fight the Fiscal / US hurt least → flow reversal / mid-term economy / AI overblown) and 6 bear pillars (military-spending crowd-out / P/FCF at decade high / ERP at 2025 low / 2026 $30bn vs 2021 $500bn stimulus / 21.4k jobs all edu-health + U Mich at quarter-century low / globalization reversal + most over-owned US assets). Concedes stocks may have "lost their discounting mechanism." Maintains short US tech / long ex-US trade.
+- [My Buddy Marko Broke the Market](sources/my-buddy-marko-broke-the-market.md) — Kevin Muir + Marko Papic podcast, 6 March 2026 (one week into war): earliest interview source on Papic's Geopolitical Alpha framework; documents his 6 Jan long-Brent pivot (US "R-word" + Gulf plausible deniability + internal discord + drone asymmetry); independent derivation of "Iran must update the utility function of the West" = Paulo's Nash/North Star; "mere days" duration call now falsified; Norman Angell parallel
+- [Geopolitics Doesn't Change Prices in the Long-Run?](sources/geopolitics-doesnt-change-prices-in-the-long-run.md) — Kevin Muir 12 March 2026: six days after the Papic podcast; the transformative-event exception clause via gold 2022–2025; Muir's gold-vs-TIPS+DXY regression broke when the Ledger-to-Real-World thesis took over; pre-registered hypothesis for Iran-war equity regression break; one-liner from "The Last Libertarian in San Francisco"
 
 ## Entities
 - [Kevin Muir](entities/KevinMuir.md) — macro analyst / trader, publishes as "the MacroTourist"
@@ -79,6 +84,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Simon White](entities/SimonWhite.md) — Bloomberg macro strategist; *Macroscope* column; eleventh author; 1970s three-act inflation framework
 - [Luke Gromen](entities/LukeGromen.md) — Forest for the Trees founder; twelfth author; fiscal/dollar-system macro
 - [HFI Research](entities/HFIResearch.md) — independent oil research; OPEC spare capacity audit; Kpler data
+- [Saudi Arabia](entities/SaudiArabia.md) — GCC swing producer; second Nash player; running ~3mmbpd shut-in via Yanbu bypass
+- [UAE](entities/UAE.md) — GCC producer; ~1.6mmbpd shut-in via Fujairah bypass
+- [OPEC](entities/OPEC.md) — producer cartel; replaced by Iran as price-setter under any Hormuz-concession deal
+- [SCO](entities/SCO.md) — ProShares 2x UltraShort WTI ETF; $1bn retail AUM; the "Max Stupid" positioning tell
+- [USO](entities/USO.md) — US Oil Fund; $1.8bn AUM with $1.4bn short interest; the asymmetric-borrow tell
+- [Jamie Dimon](entities/JamieDimon.md) — JPMorgan Chase CEO; articulator of the Peace Dividend bull case
+- [Warren Pies](entities/WarrenPies.md) — 3-Fourteen Research co-founder; March 21, 2000 precedent for the April 2026 rally
+- [Avis Budget Car Rental](entities/AvisBudgetCar.md) — CAR; April 2026 retail-squeeze poster child; half of Dow Transports' +23% rise off the 30 March low
+- [Bespoke Investment Group](entities/BespokeInvestmentGroup.md) — market-research firm; source of "never happened before" historical-precedent stats
+- [Marko Papic](entities/MarkoPapic.md) — BCA Research Chief Geopolitical Strategist; originator of "fade geopolitical angst" framework
+- [BCA Research](entities/BCAResearch.md) — independent global macro research firm (Montreal); employer of Marko Papic
+- [Norman Angell](entities/NormanAngell.md) — British economist; author of *The Great Illusion* (1909); Papic's self-parallel for "correct framework that becomes dangerous once widely adopted"
+- [The Last Libertarian in San Francisco](entities/LastLibertarianSanFrancisco.md) — Muir's recurring anonymous friend; source of the "gold over the past four years would have something to say about that" one-liner
 
 ## Concepts
 - [MAG7](concepts/MAG7.md) — megacap US tech bucket; bull vs. bear case
@@ -127,5 +145,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Debt/Liquidity Ratio](concepts/DebtLiquidityRatio.md) — Howell's systemic-risk barometer; avg 2.0x; projected to breach danger threshold 2026, retest 2.3x (2010 peak) by 2030
 - [Wall of Debt](concepts/WallOfDebt.md) — ~$45T advanced / $65T global in COVID-era debt maturing by 2030; arriving as the liquidity cycle turns down
 - [Stablecoin Statecraft](concepts/StablecoinStatecraft.md) — Michael Every's framework: post-conflict financial architecture via US or Chinese stablecoins
+- [Volatility Drag](concepts/VolatilityDrag.md) — compounding decay in daily-rebalanced leveraged/inverse ETFs; why retail $1bn in SCO has "gone nowhere"
+- [Peace Dividend](concepts/PeaceDividend.md) — bull-case narrative (Dimon): post-war Middle East prosperity; the institutional opposite of the North Star
+- [Fade Geopolitical Angst](concepts/FadeGeopoliticalAngst.md) — Papic/BCA framework: sell the spike; with 1940s-gold-style exceptions for long-term re-pricings
+- [Don't Fight the Fiscal](concepts/DontFightTheFiscal.md) — Muir's riff on Zweig: fiscal-over-monetary as the dominant driver; deficit = private sector credit
+- [One Big Beautiful Bill](concepts/OneBigBeautifulBill.md) — Trump 2026 omnibus fiscal package; no tax on tips/SS, CAPEX capitalization tax rates; mid-term-timed
+- [Equity Risk Premium](concepts/EquityRiskPremium.md) — stock earnings yield minus bond yield; at its lowest since early 2025; multi-year return signal
+- [Geopolitical Alpha](concepts/GeopoliticalAlpha.md) — Papic's formal "material constraints on policymakers" framework (2020 book); underlying analysis behind Fade Geopolitical Angst
+- [The Great Illusion](concepts/TheGreatIllusion.md) — Norman Angell's 1909 book; parallel for Papic's Geopolitical Alpha framework becoming dangerous through wide adoption
 
 ## Syntheses

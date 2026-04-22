@@ -2,8 +2,8 @@
 title: "Paulo Macro"
 type: entity
 tags: [person, author, macro, trader, energy, copper]
-sources: [liquidity-drains, liquidity-drains-redux, oil-has-turned-a-very-big-corner, intensely-concerned-for-risk-with-a-catch, tom-hanks-has-covid, oil-jobs-bond-failure-and-other-fun, make-1973-great-again, jumping-the-shark-when-a-taco-is-not-a-taco, making-macro-great-again-quick-updates, crack-spreads-are-the-tell, economic-data-copper-rollovers-and-more, jumping-the-shark-again, the-anatomy-of-a-crash, the-anatomy-of-a-crash-revisited, the-north-star-vs-liquidity]
-last_updated: 2026-04-12
+sources: [liquidity-drains, liquidity-drains-redux, oil-has-turned-a-very-big-corner, intensely-concerned-for-risk-with-a-catch, tom-hanks-has-covid, oil-jobs-bond-failure-and-other-fun, make-1973-great-again, jumping-the-shark-when-a-taco-is-not-a-taco, making-macro-great-again-quick-updates, crack-spreads-are-the-tell, economic-data-copper-rollovers-and-more, jumping-the-shark-again, the-anatomy-of-a-crash, the-anatomy-of-a-crash-revisited, the-north-star-vs-liquidity, oil-and-retail]
+last_updated: 2026-04-21
 ---
 
 # Paulo Macro
@@ -62,6 +62,9 @@ Independent macro trader and Substack writer, also known as **"Cloudbear"**. Cro
 - Fed is in multi-month institutional inertia: [[JeromePowell]] lame duck until May, [[KevinWarsh]] unconfirmed, [[NeelKashkari]] "of two minds." *"How does the Fed print oil?"* ([[the-anatomy-of-a-crash]])
 - **Bought near-dated VIX calls on 14 March 2026 — first time in nearly 16 years**, since late April 2010. ([[the-anatomy-of-a-crash]])
 - **23 March 2026 update:** Points at the Nasdaq 100 as the live instance tracking the [[AnatomyOfACrash]] pattern. Notes his original crash essay drew one of the lowest new-subscriber counts of any recent note — reads as a sentiment tell that genuine bearishness is still absent. ([[the-anatomy-of-a-crash-revisited]])
+- **21 April 2026 — the GCC second-Nash-player extension** ([[oil-and-retail]]): extends the [[NorthStar]] game to [[SaudiArabia]] and [[UAE]] as locked-in Nash players. Any "Big Beautiful Deal" that gives Iran Hormuz is *structurally unacceptable* to the GCC because it replaces [[OPEC]]/Saudi with Iran as the world's oil price-setter. GCC Nash response: keep the shut-in ~3mmbpd Saudi + ~1.6mmbpd UAE in the ground **indefinitely** via Yanbu/Fujairah bypass exports. Arithmetic: `4mmbpd × $150 = $750mn/day` > `7mmbpd × $80 = $560mn/day`. Applies [[ShrubsRazor]]: the funniest outcome is a peace deal that causes crude to *rip* in a news-failure as the market re-prices GCC shut-ins from temporary to indefinite.
+- **"Schroedinger's Strait"** ([[oil-and-retail]]): both open and closed simultaneously; either resolution is bullish crude / bearish equities. *"The odds of a rapid resolution ***and*** Iran giving up power over the Strait are both very low *and also priced in*."*
+- **Retail positioning tell — [[SCO]] and [[USO]]** ([[oil-and-retail]]): tracks the ProShares 2x UltraShort WTI ETF ([[SCO]], AUM $100mn → $1bn+ during the war) and the US Oil Fund ([[USO]], $1.8bn AUM with 10.7mn short shares). The borrow-rate asymmetry (SCO 10mn shares at 2.7% vs. USO 10k shares at 7.9% at IB) is quantitative proof of retail pressing both sides of the short-crude trade in structurally broken vehicles ([[VolatilityDrag]] + negative carry). Cites [[BruceKovner]]: *"What I am really looking for is a consensus the market is not confirming."* Frames this as "The Retail Trader's Guide to Mass Suicide" — convexity on the bull side as weak hands get run over.
 
 ## Connections
 - [[CrackSpreads]]
@@ -108,3 +111,10 @@ Independent macro trader and Substack writer, also known as **"Cloudbear"**. Cro
 - [[ShrubsRazor]]
 - [[HFIResearch]]
 - [[BroadeningOut]]
+- [[SaudiArabia]]
+- [[UAE]]
+- [[OPEC]]
+- [[SCO]]
+- [[USO]]
+- [[VolatilityDrag]]
+- [[BruceKovner]]

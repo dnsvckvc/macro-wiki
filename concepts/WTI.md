@@ -2,8 +2,8 @@
 title: "WTI"
 type: concept
 tags: [oil, benchmark, commodity]
-sources: [oil-has-turned-a-very-big-corner, crack-spreads-are-the-tell, oil-jobs-bond-failure-and-other-fun, we-need-to-talk-about-interest-rates-and-oil, macrovoices-528-rory-johnston]
-last_updated: 2026-04-12
+sources: [oil-has-turned-a-very-big-corner, crack-spreads-are-the-tell, oil-jobs-bond-failure-and-other-fun, we-need-to-talk-about-interest-rates-and-oil, macrovoices-528-rory-johnston, making-sense-of-the-last-two-months]
+last_updated: 2026-04-19
 ---
 
 # WTI (West Texas Intermediate)
@@ -49,6 +49,13 @@ This setup meant the war was a *catalyst* on top of a pre-existing structural bu
 
 ## Historical note
 Famously went *negative* on **20 April 2020** during the [[CovidOilCrash2020]]. That demand-shock episode is the structural mirror of the current supply-shock episode — [[PauloMacro]] uses the same [[CrackSpreads]] reading, inverted, to argue that crude *moons* this time rather than crashes (via [[InvertAlwaysInvert]]).
+
+## Dec 2026 WTI as the forward-SOFR barometer (per [[making-sense-of-the-last-two-months]], 19 April 2026)
+[[KevinMuir]]'s retrospective documents a mechanic the real-time wiki notes had implied but not priced out: **the Dec 2026 WTI contract became the best single barometer for where Dec SOFR (and thus Fed Funds) would end 2026.**
+- **Dec 2026 WTI path:** $60 (pre-war) → $70 in the second week of war → much higher in the second half of March.
+- **Dec 2026 SOFR path:** 2.05% (pre-war) → 2.95% at oil peak. *All three previously-forecasted cuts removed plus a small chance of a hike priced in* — a ~90bps forward-rate tightening, sourced entirely from the Dec 2026 crude future.
+- This is the operative transmission channel for [[OilPriceRecessionDebate]] in the current cycle: the market ran the experiment in real time by pricing the Hamilton-style supply-shock channel directly into forward short rates.
+- The front-end of the curve carried the stress, not the long-end — 3-month 1-year swaption vol *reached Liberation Day levels* while 3-month 10-year swaption vol barely moved. Muir: *"The market that experienced the worst relative move was the front-end of the yield curve."*
 
 ## Connections
 - [[CrackSpreads]]

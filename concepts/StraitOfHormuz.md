@@ -2,8 +2,8 @@
 title: "Strait of Hormuz"
 type: concept
 tags: [oil, geopolitics, iran, shipping, choke-point]
-sources: [oil-jobs-bond-failure-and-other-fun, we-need-to-talk-about-interest-rates-and-oil, jumping-the-shark-again, jumping-the-shark-when-a-taco-is-not-a-taco, making-macro-great-again-quick-updates, macrovoices-527-jim-bianco, macrovoices-526-dr-anas-al-hajji, macrovoices-525-michael-every, macrovoices-524-rory-johnston, macrovoices-528-rory-johnston]
-last_updated: 2026-04-12
+sources: [oil-jobs-bond-failure-and-other-fun, we-need-to-talk-about-interest-rates-and-oil, jumping-the-shark-again, jumping-the-shark-when-a-taco-is-not-a-taco, making-macro-great-again-quick-updates, macrovoices-527-jim-bianco, macrovoices-526-dr-anas-al-hajji, macrovoices-525-michael-every, macrovoices-524-rory-johnston, macrovoices-528-rory-johnston, oil-and-retail, my-buddy-marko-broke-the-market]
+last_updated: 2026-04-21
 ---
 
 # Strait of Hormuz
@@ -86,6 +86,19 @@ After all mitigation (Saudi/UAE/Iraqi/Iranian bypass pipelines + 400mmbbl global
 - [[LeShrub]]'s **NACHO** meme — *"Not Actually Changing Hormuz Opening"* — captures the gap between Trump administration rhetoric and the on-the-ground reality at the Strait. See [[NachoTaco]].
 - Under [[PauloMacro]]'s [[NashEquilibrium]] framing, Iranian control of Hormuz is structurally locked in: it is the physical instrument of Iran's "Never Again" deterrent and does not depend on Trump's posture.
 
+## Papic's "fulcrum" framing and the 6 January long-Brent call (per [[my-buddy-marko-broke-the-market]])
+[[MarkoPapic]] had argued consistently from 7 October 2023 through end-2025 that Israel-Iran rocket exchanges didn't matter — because *"the fulcrum at which everything matters [in the Middle East] is the Strait of Hormuz."* On **6 January 2026** he flipped long Brent at BCA specifically because the threshold had been crossed: with US regime-change rhetoric + Iranian drone asymmetry (Houthi Red Sea precedent with "even less technology"), Iran's capacity to close Hormuz had become a credible material constraint rather than a low-probability tail. This is the **earliest institutional long-oil call in the wiki**, three weeks before Paulo's 28 January [[oil-has-turned-a-very-big-corner]].
+
+**Papic's duration sub-call was wrong.** Recorded 6 March 2026: Papic expected Iran's closure of Hormuz to last *"mere days… five, six, seven days"* before the US would "take the gloves off" and "take them back to the Abbasid Caliphate" with a degrading punitive campaign. Actual: 50+ days of closure through mid-April with no regime-destruction campaign. [[JimBianco]]'s Mosaic Doctrine analysis in [[macrovoices-527-jim-bianco]] codifies the operational reason: Iran's standing orders across distributed drone/missile sectors make the closure self-sustaining even under partial US degradation.
+
+This duration miss sits alongside Papic's *broader-framework* vindication: despite the 50+ day physical closure, equities have in fact faded the war ([[FadeGeopoliticalAngst]] / [[GeopoliticalAlpha]]). The physical market and the equity market are on different clocks — a gap that is itself load-bearing for [[PauloMacro]]'s thesis that the collision is still coming ([[TomHanksHasCovidMoment]]).
+
+## The GCC-shut-in counter-scenario (per [[oil-and-retail]], 21 April 2026)
+[[PauloMacro]] extends the analysis to the question of *what happens if a peace deal is signed that gives Iran Hormuz.*
+- **Saudi exports (April 2026) are already down from ~7mmbpd baseline to ~4mmbpd**, with UAE ~1.6mmbpd shut in. Remaining exports run via bypass routes — **Yanbu** (Saudi Red Sea terminal) and **Fujairah** (UAE Gulf of Oman terminal) — avoiding Hormuz entirely.
+- If Iran gets Hormuz under a deal, [[SaudiArabia]] and [[UAE]]'s Nash-optimal response is to keep the shut-in barrels in the ground **indefinitely** rather than accept OPEC-is-replaced-by-Iran pricing. Arithmetic favors shut-in: `4mmbpd × $150 = $750mn/day` > `7mmbpd × $80 = $560mn/day`.
+- Implication: **the Hormuz story does not end with a deal**; it just shifts from "Iran drags things out" to "GCC keeps indefinite shut-in." Either resolution path is crude-up / risk-off.
+
 ## Connections
 - [[WTI]]
 - [[SPRRelease]]
@@ -98,3 +111,8 @@ After all mitigation (Saudi/UAE/Iraqi/Iranian bypass pipelines + 400mmbbl global
 - [[DrAnasAlHajji]]
 - [[MichaelEvery]]
 - [[RoryJohnston]]
+- [[SaudiArabia]]
+- [[UAE]]
+- [[NorthStar]]
+- [[MarkoPapic]]
+- [[GeopoliticalAlpha]]

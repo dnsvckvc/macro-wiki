@@ -2,8 +2,8 @@
 title: "JPM Collar Trade (JPM Option Whale)"
 type: concept
 tags: [options, dealer-gamma, market-structure, jpm-whale, vanna, charm]
-sources: [jumping-the-shark-again, vix-inversion-buying-bonds-japan-jpm-option-whale]
-last_updated: 2026-04-12
+sources: [jumping-the-shark-again, vix-inversion-buying-bonds-japan-jpm-option-whale, making-sense-of-the-last-two-months]
+last_updated: 2026-04-19
 ---
 
 # JPM Collar Trade (JPM Option Whale)
@@ -48,6 +48,13 @@ Muir: *"There sure were lots of reasons market makers were scrambling on Friday.
 
 ## Cross-author alignment
 Muir (7 March) arrives at the mechanics-first explanation; Paulo (27 March) applies them in [[jumping-the-shark-again]]. Paulo quotes Muir directly: *"You have to have some frickin' balls to be a dealer managing that position right now."* Both authors view the 31 March expiration as the primary near-term instability window.
+
+## Post-hoc confirmation (per [[making-sense-of-the-last-two-months]], 19 April 2026)
+Muir's 19 April retrospective locks the mechanics in:
+- **Market low = 30 March 2026.** The JPM position rolled on expiry (31 March). *"The last day before they rolled the position coincided with the low in the market."*
+- *"The second part of the decline was driven by rising oil prices, which caused implied central bank tightening of monetary policy. This front-end yield curve stress caused all financial assets to sell off, driving the S&P 500 down to the point where the JP Morgan Option Whale put position kicked in, creating maximum chaos."*
+- **The transmission chain confirmed end-to-end:** rising Dec 2026 WTI → rising Dec SOFR (2.05% → 2.95%) → front-end yield stress (3-mth 1-yr swaption vol ~= Liberation Day) → broad risk-asset selling → SPX reaches the 6475 short-gamma strike → dealer squeeze amplifies the move → roll-day low.
+- Muir adds: *"Once again, the SPX option market was the tail-that-wagged-the-dog… We have seen this phenomenon occur time and time again."* The JPM Whale pattern is now explicitly categorized as a recurring regime, not a one-off.
 
 ## Connections
 - [[KevinMuir]]
