@@ -2,8 +2,8 @@
 title: "Strait of Hormuz"
 type: concept
 tags: [oil, geopolitics, iran, shipping, choke-point]
-sources: [oil-jobs-bond-failure-and-other-fun, we-need-to-talk-about-interest-rates-and-oil, jumping-the-shark-again, jumping-the-shark-when-a-taco-is-not-a-taco, making-macro-great-again-quick-updates, macrovoices-527-jim-bianco, macrovoices-526-dr-anas-al-hajji, macrovoices-525-michael-every, macrovoices-524-rory-johnston, macrovoices-528-rory-johnston, oil-and-retail, my-buddy-marko-broke-the-market]
-last_updated: 2026-04-21
+sources: [oil-jobs-bond-failure-and-other-fun, we-need-to-talk-about-interest-rates-and-oil, jumping-the-shark-again, jumping-the-shark-when-a-taco-is-not-a-taco, making-macro-great-again-quick-updates, macrovoices-527-jim-bianco, macrovoices-526-dr-anas-al-hajji, macrovoices-525-michael-every, macrovoices-524-rory-johnston, macrovoices-528-rory-johnston, oil-and-retail, my-buddy-marko-broke-the-market, wctw-the-oil-market-breaking-point, wctw-the-oil-market-breaking-point-is-here, oilgroundup-adi-imsirovic, geopolitical-cousins-rory-johnston]
+last_updated: 2026-04-24
 ---
 
 # Strait of Hormuz
@@ -38,6 +38,14 @@ The closure takes **20mmbpd / 100mmbpd = 20% of global crude supply** off the ma
 - **Ukraine's drone revolution as the long-term solution:** Ukraine killing 30–35K Russians/month (90% from drones); has signed 10-year security agreements with Gulf states to bring interceptor drone technology — but scaling to the full 600-mile Strait will take a long time.
 - **Without a deal, oil rises ~$3/day** on average (quoting Javier Blas, Bloomberg).
 - **Even with a deal, pre-Feb-28 market levels are permanently gone.** Risk premiums are now embedded.
+
+## IRGC physical-closure evidence (per [[wctw-the-oil-market-breaking-point-is-here]], 20 April 2026)
+[[HFIResearch]]'s direct observation over the weekend of 18–19 April 2026:
+- *"IRGC physically implemented the closure by threatening tankers with gunfire. We saw this visibly through tanker activity. This is the first time since we started tracking tanker activity that we saw tankers turn around in volume."*
+- Prior weeks had shown only 1–2 tanker turnarounds at a time. The 18–19 April weekend produced a mass turnaround.
+- HFI walks back his own prior sympathy for the insurance-closure thesis: *"I also shared that view in the early stages of the conflict, but as the events progressed, especially what transpired this weekend, I was shocked."*
+- **Interpretation:** the insurance-closure mechanism (see below) may have been operative in the first weeks when the market could be kept closed by insurance pricing alone. By late April, IRGC has taken *direct physical control* via live-fire threats. The two mechanisms are sequential rather than mutually exclusive, but the *primary-cause* attribution has flipped.
+- HFI: *"the conflict will need to get worse before it gets better… I fear the worst has yet to come."*
 
 ## The insurance-closure thesis (per [[macrovoices-526-dr-anas-al-hajji]])
 [[DrAnasAlHajji]] presents a genuinely alternative explanation for *who* closed the Strait:
@@ -81,6 +89,20 @@ After all mitigation (Saudi/UAE/Iraqi/Iranian bypass pipelines + 400mmbbl global
 - Al-Hajji's model: **demand destruction at Brent ~$160.** Major global recession (probably stagflation) by May.
 - Trump has "exhausted all his options" — SPR used, exemptions already in market, Jones Act workaround already priced in.
 
+## The escalation ladder (per [[geopolitical-cousins-rory-johnston]], 23 April 2026)
+[[RoryJohnston]]'s third-appearance framing of the vectors Iran still has available without triggering [[MutualAssuredDestructionEnergy]]-level response:
+- **Bab el-Mandeb / Houthis:** closure would force Cape of Good Hope detour (+2 weeks delivery). Red Sea currently handles ~4.5-5mmbpd of Saudi East-West rerouted flow, so the knock-on effect of closing this would be severe. *"The million-dollar question."*
+- **Kharg Island:** Iran's main oil-export loading terminal. A US/Israeli seizure of Kharg would be met with Iranian strikes on Saudi Ras Tanura or Abqaiq.
+- **Abqaiq:** Saudi Arabia's primary oil-processing facility. An Iranian strike on Abqaiq + East-West pipeline pumping stations would functionally collapse the Saudi Yanbu bypass.
+- **Upstream facility attacks:** the [[SouthPars]] / Ras Laffan reciprocal exchange of **30 March 2026** established MAD on this vector; neither side is expected to revisit.
+- **Rory's framework:** *"If upstream facility attacks are taking a shotgun and blasting off the faucet to which the hose is attached, everything can be repaired. But that is a lot longer."*
+
+## Saudi SUMED / Suez constraint (per [[geopolitical-cousins-rory-johnston]])
+If the Houthis close the Bab el-Mandeb, VLCCs from Yanbu would need an alternative route:
+- **VLCCs cannot transit the Suez Canal laden.** They can transit empty or half-laden.
+- **SUMED pipeline** (Sidi Kerir-Ain Sukhna, Egypt) adjacent to the Suez Canal has ~4mmbpd capacity — barrels offload at the Red Sea end, flow via pipeline past Suez, re-load at Mediterranean end.
+- **Rory's judgment:** most of the ~4-5mmbpd Yanbu rerouted flow could *theoretically* still get out via SUMED + Suez, but not all — and the Cape of Good Hope alternative adds ~2 weeks per round trip. *"We simply do not have the time."*
+
 ## Market relevance
 - The closure is the proximate cause of the [[WTI]] $67.50 → $115 rally (partially tamped to $93 by [[SPRRelease]]) and the global front-end yield explosion Muir documents.
 - [[LeShrub]]'s **NACHO** meme — *"Not Actually Changing Hormuz Opening"* — captures the gap between Trump administration rhetoric and the on-the-ground reality at the Strait. See [[NachoTaco]].
@@ -92,6 +114,26 @@ After all mitigation (Saudi/UAE/Iraqi/Iranian bypass pipelines + 400mmbbl global
 **Papic's duration sub-call was wrong.** Recorded 6 March 2026: Papic expected Iran's closure of Hormuz to last *"mere days… five, six, seven days"* before the US would "take the gloves off" and "take them back to the Abbasid Caliphate" with a degrading punitive campaign. Actual: 50+ days of closure through mid-April with no regime-destruction campaign. [[JimBianco]]'s Mosaic Doctrine analysis in [[macrovoices-527-jim-bianco]] codifies the operational reason: Iran's standing orders across distributed drone/missile sectors make the closure self-sustaining even under partial US degradation.
 
 This duration miss sits alongside Papic's *broader-framework* vindication: despite the 50+ day physical closure, equities have in fact faded the war ([[FadeGeopoliticalAngst]] / [[GeopoliticalAlpha]]). The physical market and the equity market are on different clocks — a gap that is itself load-bearing for [[PauloMacro]]'s thesis that the collision is still coming ([[TomHanksHasCovidMoment]]).
+
+## GCC production shut-in totals as of 26 March 2026 (per [[wctw-the-oil-market-breaking-point]])
+[[HFIResearch]]'s precise accounting of shut-in production among Gulf producers:
+
+| Country | Shut-in |
+|---|---|
+| [[Iraq]] | −3.60 mmbpd |
+| [[SaudiArabia]] | −3.05 mmbpd |
+| [[Kuwait]] | −2.35 mmbpd |
+| [[UAE]] | −1.80 mmbpd |
+| Bahrain | −0.18 mmbpd |
+| **Total** | **−10.98 mmbpd** |
+
+Bypass-pipeline capacities as of 26 March:
+- Saudi East–West via Yanbu: **~4mmbpd maxed** (per [[HFIResearch]], observed tanker loadings off Yanbu).
+- UAE Habshan–Fujairah: **~1.8mmbpd maxed** (per [[HFIResearch]]).
+- **Subsequent datapoint (per [[AdiImsirovic]] in [[oilgroundup-adi-imsirovic]], mid-April):** *"Saudis ramped up the East-West pipeline to 7 million barrels"* and UAE / ADNOC *"pumping 1.7mmbpd."* The 7mmbpd figure is likely the **pipeline's ramped capacity** (rated design ~5-7mmbpd) rather than realized tanker loadings — HFI's 4mmbpd reflects observed Kpler flows off Yanbu, Imsirovic's 7 describes what the infrastructure can push. Not a contradiction; two measurements of different things.
+- Iraq and Kuwait have *no bypass* — they are structurally Hormuz-dependent and HFI flags that both will take **3–4 months** to bring production back to normal once resolution arrives. This is the main reason [[AdamRozencwajg]]'s 930mmbbl / 340mmbbl (May–December) forward-balance estimate exceeds HFI's own (HFI concedes its own storage-sensitivity analysis missed the restart lag).
+
+These GCC figures are *separate from* and *additional to* Iran's own ~2mmbpd production, which per [[macrovoices-528-rory-johnston]] came off the market in week 5+ when the Trump admin pivoted to maximum-pressure blockade — pushing total Gulf shut-in to ~13-15mmbpd.
 
 ## The GCC-shut-in counter-scenario (per [[oil-and-retail]], 21 April 2026)
 [[PauloMacro]] extends the analysis to the question of *what happens if a peace deal is signed that gives Iran Hormuz.*
@@ -116,3 +158,14 @@ This duration miss sits alongside Papic's *broader-framework* vindication: despi
 - [[NorthStar]]
 - [[MarkoPapic]]
 - [[GeopoliticalAlpha]]
+- [[HFIResearch]]
+- [[Iraq]]
+- [[Kuwait]]
+- [[OilMarketBreakingPoint]]
+- [[AdiImsirovic]]
+- [[BrentComplex]]
+- [[BrickAndMortarTrade]]
+- [[MutualAssuredDestructionEnergy]]
+- [[SouthPars]]
+- [[PrecautionaryDemand]]
+- [[geopolitical-cousins-rory-johnston]]

@@ -2,8 +2,8 @@
 title: "Robert Pape"
 type: entity
 tags: [person, academic, political-science, escalation, iran]
-sources: [the-north-star-vs-liquidity]
-last_updated: 2026-04-12
+sources: [the-north-star-vs-liquidity, wctw-the-oil-market-breaking-point-is-here]
+last_updated: 2026-04-23
 ---
 
 # Robert Pape
@@ -17,7 +17,14 @@ Professor of political science at the University of Chicago. Author of *Bombing 
 
 Paulo: "Imagine my pleasant surprise when professor Robert Pape gave an outstanding interview two weeks ago where he laid out his Escalation Trap that just happens to back into my North Star perfectly."
 
+## HFI endorsement (per [[wctw-the-oil-market-breaking-point-is-here]], 20 April 2026)
+[[HFIResearch]] flags Pape's April 2026 piece *"Why the Ceasefire Keeps Failing"* as the best current geopolitical framework for understanding why Iran-US diplomacy cannot produce a durable agreement. HFI: *"My friend PauloMacro recently recommended Professor Robert Pape… And I digested everything he wrote and talked about over the last 2 months."* This is the **first explicit cross-author citation from HFI** in the wiki — the reference-flow direction has flipped from Paulo-cites-HFI-for-data to HFI-cites-Paulo-for-framework.
+
+The Pape-Paulo-HFI convergence is now tri-party: Pape's Escalation Trap, Paulo's North Star, and HFI's "only way to solve this in the long run is to 'solve' it" all describe the same locked-equilibrium dynamic via independent derivation routes (political-science analysis / game-theoretic Pearl-Harbor framing / commodity-arithmetic inevitability).
+
 ## Connections
 - [[PauloMacro]]
+- [[HFIResearch]]
 - [[NorthStar]]
 - [[NashEquilibrium]]
+- [[wctw-the-oil-market-breaking-point-is-here]]

@@ -2,8 +2,8 @@
 title: "Marko Papic"
 type: entity
 tags: [person, strategist, geopolitics, bca-research]
-sources: [my-buddy-marko-broke-the-market, outlining-the-bull-and-bear-arguments]
-last_updated: 2026-04-20
+sources: [my-buddy-marko-broke-the-market, outlining-the-bull-and-bear-arguments, geopolitical-cousins-rory-johnston]
+last_updated: 2026-04-24
 ---
 
 # Marko Papic
@@ -58,6 +58,16 @@ Papic got the framework-level call correct (this war does not have lasting equit
 - **Macro backdrop is more pernicious than summer 2024** — *"a lot of cockroaches in the private space that nobody really knows where they're going to end up."* Echoes Paulo's credit-cycle-already-turning thesis from [[intensely-concerned-for-risk-with-a-catch]].
 - **Imagined White House dialog:** Hegseth/Trump argue the market is fine; Bessent pushes back that the underlying factors (labor market, oil, inflation) are "getting red hot even if that front burner of the stock market is not flashing red." Prefigures the real-world analysis Paulo and Muir later document in detail.
 
+## Geopolitical Cousins views (per [[geopolitical-cousins-rory-johnston]], ~23 April 2026)
+Papic's most recent wiki appearance, co-hosting with [[JacobShapiro]] and guest [[RoryJohnston]]. Papic's updated positioning:
+- **Regime change is off the table.** *"When was the last time we uttered the words regime change? Jacob, you were 100 percent right. I'm on an exact same path as you guys are, except now they got exactly what closing Hormuz was intended to do, which is illustrate to the United States of America, you can't do regime change in Iran. And that is no longer a goal."*
+- **Coined the [[MutualAssuredDestructionEnergy]] framework.** The **30 March 2026** Israeli strike on [[SouthPars]] plus Iran's reciprocal strike on Qatari LNG ([[SaadAlKaabi]]'s Ras Laffan) showed that ~30% of global LNG and ~20% of global crude could go offline in a 24-hour exchange — which now precludes kinetic re-escalation on both sides.
+- **"Canisters and cannibalism"** — Papic's coinage for the demand-destruction endpoint; the point at which *every major country on Earth* would line up against Iran regardless of who started the war. Also the line Iran dare not cross because doing so destroys Iran's diplomatic leverage structurally.
+- **Iran has won; time to cash in.** Papic's core argument: Iran has achieved the deterrent it set out to achieve. Holding Hormuz closed much longer becomes a "wasting strategic asset" — the longer it stays closed, the more the world builds structural workarounds (China/rare-earths analogy; new GCC pipelines being announced).
+- **Trump has already blinked.** Papic disagrees with Rory (and Shapiro, who sides with Rory) on who has more leverage. Papic cites Trump's April climb-down from "I will not extend the ceasefire" (Thursday) to *"oh, I was just kidding"* (Friday) as the operative blink.
+- **Papic's Brent call is more aggressive than Rory's:** $150-$170 by mid-May if unresolved. Rory's data-grounded path is $130-$150 by June 1 — the conversation makes explicit that Papic is *less linear and more doomy* on the time horizon than Rory.
+- **Praise for Johnston's prior work:** *"I've always enjoyed your presence on social media. I think you're really thoughtful."* Papic also takes credit/responsibility for the Rory-map-Trump-retweet incident.
+
 ## Citation in part-2 bull/bear piece ([[outlining-the-bull-and-bear-arguments]])
 Muir cites Papic's chart in his 20 April bull-case pillar #1 ([[FadeGeopoliticalAngst]]): "the buy the geopolitical angst trade worked in spades… it was just a little late in kicking in." Muir also notes that Papic's own chart includes the 1940s gold exception — a long-run re-pricing event that took years to play out — and that the current war may belong to that exception bucket.
 
@@ -79,3 +89,9 @@ Muir cites Papic's chart in his 20 April bull-case pillar #1 ([[FadeGeopolitical
 - [[JimBianco]]
 - [[my-buddy-marko-broke-the-market]]
 - [[outlining-the-bull-and-bear-arguments]]
+- [[geopolitical-cousins-rory-johnston]]
+- [[JacobShapiro]]
+- [[RoryJohnston]]
+- [[MutualAssuredDestructionEnergy]]
+- [[SouthPars]]
+- [[SaadAlKaabi]]

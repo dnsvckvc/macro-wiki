@@ -2,8 +2,8 @@
 title: "Liquidity Mechanics (TGA / RRP / Bank Reserves)"
 type: concept
 tags: [liquidity, fed, treasury, tga, rrp, reserves, market-structure]
-sources: [liquidity-drains, liquidity-drains-redux, the-north-star-vs-liquidity, could-fed-liquidity-plunge-by-half]
-last_updated: 2026-04-12
+sources: [liquidity-drains, liquidity-drains-redux, the-north-star-vs-liquidity, could-fed-liquidity-plunge-by-half, crypto-gold-pboc-vs-fed, treasury-qe-warsh-fed-eclipsed]
+last_updated: 2026-04-27
 ---
 
 # Liquidity Mechanics (TGA / RRP / Bank Reserves)
@@ -51,6 +51,43 @@ Paulo's TGA/RRP/bank-reserves framework is the **US micro-plumbing** layer. [[Mi
 - Paulo explains the *specific US mechanics* that create short-term counter-trend injections (Bessent TGA drawdown, Fed RMP) within that broader downswing.
 - Howell's key distinction — **level vs. momentum** — means the real economy can keep growing ($188T absolute liquidity) while risk-asset rallies fade (negative momentum). This is the macro frame for why "Can't Print Molecules" coexists with a still-functional economy.
 
+## Howell's Fed-side accounting of the same April 2026 swing (per [[crypto-gold-pboc-vs-fed]])
+[[MichaelHowell]] independently quantifies the same liquidity rebound from the **Fed-reserves side** that Paulo described from the **Treasury-TGA side**. Bank reserves vs. adequacy went from a **−$400bn shortfall** in late October 2025 to a **+$200bn surplus** in early April 2026 — a **+$606bn swing**:
+- $251bn — reduction in *required* reserves from the **eSLR (enhanced Supplementary Leverage Ratio)** regulatory change phased in 1 January 2026.
+- $192bn — [[ReserveManagementPurchases]] direct cash.
+- $163bn — various other sources (Treasury operations, RRP residuals).
+
+In late April, excess reserves are back to par. The Fed's **SOMA account** shows a sharp V-shape rise that *"should dispel any doubts that the Fed has revived (albeit temporarily) its QE-program."*
+
+**The Paulo↔Howell triangulation:** Paulo's [[the-north-star-vs-liquidity]] (12 April) predicted the support was finite and ends after April 15 tax receipts. Howell's 27 April piece **confirms** from Fed communications: *"the Fed has previously warned that the RMP would be 'front-loaded' ahead of April 15th 'Tax Day'."* Two authors, two coordination channels, same conclusion.
+
+**Continuity uncertainty under [[KevinWarsh]]:** Howell flags that whether the RMP continues is *"uncertain ahead of Chair Warsh commencing his tenure."* If Warsh leans toward [[StephenMiran]]'s thesis (cut Fed assets ~$1.7T, [[could-fed-liquidity-plunge-by-half]]), the [[MOVEIndex]] / [[BasisTrade]] coordination breaks.
+
+## Howell's deeper-layer reframe (per [[treasury-qe-warsh-fed-eclipsed]])
+
+[[MichaelHowell]]'s 25 April 2026 piece argues the *binding* constraint on liquidity has moved one layer beyond bank reserves:
+
+> *"The critical issue is not the volume of banks' reserves. It is the capacity of dealers' balance sheets to warehouse Treasuries and intermediate repo flows."*
+
+Implication for Paulo's TGA/RRP/bank-reserves framework:
+- The framework remains correct as far as it goes — TGA management, RMP, and bank reserves are real liquidity dials.
+- But the *binding constraint* in the modern repo-/collateral-based system is **dealer balance sheet capacity** (Basel III / eSLR caps) and the [[MOVEIndex]] / [[CollateralMultiplier]] mechanism.
+- *"Scarce intermediation capacity co-exists with the Fed's provision of ample reserves."*
+
+The full architecture therefore stacks:
+
+| Layer | Operator | Tool | Wiki concept |
+|---|---|---|---|
+| **Top — macro overlay** | All major CBs | Coordinated cycle | [[GlobalLiquidityCycle]] |
+| **Real-economy crowd-out** | The economy itself | Working-capital demand | [[TwinParadoxesOfLiquidity]] |
+| **Stealth coordination** | Treasury + Fed | Bill skew + buybacks + RMP | [[StealthAccord]] / [[TreasuryQE]] |
+| **Quantitative core** | Dealer balance sheets / repo system | Multiplier on collateral pool | [[CollateralMultiplier]] |
+| **Master dial** | MOVE-targeting feedback | Treasury buybacks | [[MOVEIndex]] |
+| **Fed-side mechanics** | Fed | RMP | [[ReserveManagementPurchases]] |
+| **US plumbing** | Treasury | TGA / RRP / bank reserves | (this concept) |
+
+Paulo's framework sits at the bottom of a richer stack. The **April 2026 risk rally** that Paulo described from the bottom-up (TGA drawdown + RMP) is the same event Howell describes from the top-down ([[CollateralMultiplier]] expansion via MOVE compression). Both authors are correct; Howell's framework adds the *quantitative pivot* (MOVE → multiplier) and the *binding-constraint* (dealer balance sheets) that make Paulo's mechanics coherent within the modern repo-collateral architecture.
+
 ## Connections
 - [[PauloMacro]]
 - [[ScottBessent]]
@@ -60,3 +97,9 @@ Paulo's TGA/RRP/bank-reserves framework is the **US micro-plumbing** layer. [[Mi
 - [[GlobalLiquidityCycle]]
 - [[MichaelHowell]]
 - [[StephenMiran]]
+- [[ReserveManagementPurchases]]
+- [[MOVEIndex]]
+- [[TwinParadoxesOfLiquidity]]
+- [[StealthAccord]]
+- [[TreasuryQE]]
+- [[CollateralMultiplier]]

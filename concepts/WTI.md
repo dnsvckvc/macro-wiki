@@ -2,8 +2,8 @@
 title: "WTI"
 type: concept
 tags: [oil, benchmark, commodity]
-sources: [oil-has-turned-a-very-big-corner, crack-spreads-are-the-tell, oil-jobs-bond-failure-and-other-fun, we-need-to-talk-about-interest-rates-and-oil, macrovoices-528-rory-johnston, making-sense-of-the-last-two-months]
-last_updated: 2026-04-19
+sources: [oil-has-turned-a-very-big-corner, crack-spreads-are-the-tell, oil-jobs-bond-failure-and-other-fun, we-need-to-talk-about-interest-rates-and-oil, macrovoices-528-rory-johnston, making-sense-of-the-last-two-months, oilgroundup-adi-imsirovic, geopolitical-cousins-rory-johnston]
+last_updated: 2026-04-24
 ---
 
 # WTI (West Texas Intermediate)
@@ -47,6 +47,23 @@ This setup meant the war was a *catalyst* on top of a pre-existing structural bu
 
 **US Gulf Coast is now the global swing supplier** — China has blocked exports of refined products. Tankers inbound to the US because other regions will pay more than Americans. Mid-continent US is "arguably the most energy-secure region on the planet" (domestic refining + Canadian crude on pipelines). Coastal US will feel the shock.
 
+## WTI prompt backwardation record ($15) and the June/Dec $20 backwardation (per [[oilgroundup-adi-imsirovic]])
+[[AdiImsirovic]] confirms Johnston's data from a physical-trader's vantage point:
+- **Record-breaking WTI prompt backwardation: $15/bbl** between May and June 2026 contracts — holding one physical barrel in Cushing through the spread was effectively a risk-free $15/bbl arbitrage.
+- This is WTI's structural equivalent of the Brent June/Dec $20 backwardation — the futures curve itself is screaming scarcity before you even add the Dated-Brent-over-futures spread.
+- See [[BrentComplex]] and [[BrickAndMortarTrade]] for the mechanical explanation.
+
+## Johnston's Dec 2026 Brent price path (per [[geopolitical-cousins-rory-johnston]], ~23 April 2026)
+[[RoryJohnston]]'s most explicit forward-price forecast in the wiki, conditional on Hormuz resolution date:
+
+| Hormuz reopens | Prompt Brent on news | Dec 2026 Brent outlook |
+|---|---|---|
+| May 1 | Drops $20/bbl in one day, grinds higher from there | $95-$100 unless second IEA SPR release or recession |
+| Still closed by June 1 | N/A | **$130-$150** |
+| Still closed by July 1 | N/A | **~$195-$200** |
+
+Rory's modeling assumption: 4mmbpd/day net commercial-stock draw in March-April, 5mmbpd/day in May-June, cumulative 1bn-bbl loss by May 1 even under best-case resolution. *"I'm just following my brutal logic."* This is materially less doomy than Papic's $150-$170 mid-May or HFI's "no price for outright shortages" in [[wctw-the-oil-market-breaking-point-is-here]]; Rory explicitly credits a second ~400mmbbl IEA SPR release as a base-case absorber.
+
 ## Historical note
 Famously went *negative* on **20 April 2020** during the [[CovidOilCrash2020]]. That demand-shock episode is the structural mirror of the current supply-shock episode — [[PauloMacro]] uses the same [[CrackSpreads]] reading, inverted, to argue that crude *moons* this time rather than crashes (via [[InvertAlwaysInvert]]).
 
@@ -67,3 +84,9 @@ Famously went *negative* on **20 April 2020** during the [[CovidOilCrash2020]]. 
 - [[KevinMuir]]
 - [[HFIResearch]]
 - [[ShrubsRazor]]
+- [[BrentComplex]]
+- [[AdiImsirovic]]
+- [[BrickAndMortarTrade]]
+- [[TheoryOfStorage]]
+- [[PrecautionaryDemand]]
+- [[MutualAssuredDestructionEnergy]]

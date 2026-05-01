@@ -2,8 +2,8 @@
 title: "Ledger to Real World Thesis"
 type: concept
 tags: [gold, reserves, central-banks, geopolitics, russia, sanctions]
-sources: [buying-gold-again, geopolitics-doesnt-change-prices-in-the-long-run]
-last_updated: 2026-03-12
+sources: [buying-gold-again, geopolitics-doesnt-change-prices-in-the-long-run, jgbs-usdjpy-us10y-volatility]
+last_updated: 2026-04-27
 ---
 
 # "Moving From The Ledger To The Real World" Thesis
@@ -29,11 +29,33 @@ Muir's 12 March 2026 piece makes the thesis quantitative via his own multiple re
 
 This is the wiki's quantitative anchor for the claim that some geopolitical events *do* have lasting price impact — the exception clause inside [[MarkoPapic]]'s [[GeopoliticalAlpha]] framework, here made empirically legible.
 
+## Generalization beyond gold — the regression-break template
+
+The gold/real-yields case is now used as a *template* for testing whether other long-stable cross-asset relationships are mid-regression-break:
+
+| Application | Old relationship | Break catalyst | Template author | Source |
+|---|---|---|---|---|
+| **Gold ∝ −Real Yields** (canonical) | 2007–Feb 2022 lockstep | Russia reserves frozen 24 Feb 2022 | [[KevinMuir]] | [[geopolitics-doesnt-change-prices-in-the-long-run]] |
+| Equities (pre-registered) | various pre-war regressions | Iran/US/Israel war 28 Feb 2026 | [[KevinMuir]] | [[geopolitics-doesnt-change-prices-in-the-long-run]] |
+| **USD/JPY ∝ +UST 10Y** | decades of tight co-movement | possibly oil-in-yen unaffordability; divergence dates to ~Liberation Day | [[PauloMacro]] | [[jgbs-usdjpy-us10y-volatility]] |
+
+[[PauloMacro]]'s 27 April 2026 piece ([[jgbs-usdjpy-us10y-volatility]]) is the *second cross-asset extension* of the framework. Each application has the same anatomy:
+1. Long-stable historical relationship.
+2. Structural geopolitical or policy event that changes the marginal price-setter.
+3. Visible divergence chart.
+4. Lagging vol pricing — the market hasn't yet "gotten the joke."
+5. Multi-year horizon for full revaluation (Paulo: *"these trends go on for years once the barge turns"*).
+
+The framework now functions in the wiki as a **recurring analytical procedure** for any major shock that hits a long-stable cross-asset relationship.
+
 ## Connections
 - [[Gold]]
 - [[PBOC]]
 - [[KevinMuir]]
+- [[PauloMacro]]
 - [[LastLibertarianSanFrancisco]]
 - [[FadeGeopoliticalAngst]]
 - [[GeopoliticalAlpha]]
+- [[YenCarryTrade]]
 - [[geopolitics-doesnt-change-prices-in-the-long-run]]
+- [[jgbs-usdjpy-us10y-volatility]]

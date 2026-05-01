@@ -2,8 +2,8 @@
 title: "Oil Price Recession Debate"
 type: concept
 tags: [macro, oil, monetary-policy, recession, academic]
-sources: [we-need-to-talk-about-interest-rates-and-oil, making-sense-of-the-last-two-months]
-last_updated: 2026-04-19
+sources: [we-need-to-talk-about-interest-rates-and-oil, making-sense-of-the-last-two-months, why-did-the-front-end-get-hammered]
+last_updated: 2026-04-27
 ---
 
 # Oil Price Recession Debate
@@ -34,9 +34,22 @@ Muir's 19 April retrospective identifies the *specific* price link that transmit
 - **Front-end swaption vol (3m1y) reached Liberation Day levels; 3m10y barely moved** — the debate's "policy response" channel wasn't a hypothesis, it printed in real time on the vol surface.
 - Muir: *"The market was more sensitive to longer-dated crude than I had ever imagined. The Dec 2026 crude oil future was setting the tone for front-end interest rates, which then translated into other financial assets like equities."* This is the empirical Hamilton result at the price-discovery level, arriving before the Fed has touched policy.
 
+## The leg-by-leg refinement (per [[why-did-the-front-end-get-hammered]], 27 April 2026)
+[[KevinMuir]]'s 27 April deep-dive refines the earlier "we get both" verdict into a leg-by-leg one:
+
+| Leg | Dominant transmission | Academic camp |
+|---|---|---|
+| **First leg (Feb 28 → April 11)** | Rate response carried the shock — Dec 2026 SOFR moved 87.5bps on crude alone; SPX broke through [[JPMCollarTrade]] strike → 30 March low | Hamilton (rate response → recession) |
+| **Second leg (forward)** | No more easing left to remove — actual hikes politically untenable per [[RemovalOfEasingVsHikes]]; market already breaking the regression (yellow dots below line); recession transmits *directly* via demand destruction | Bernanke (oil shock itself → recession) |
+
+The same author can give different leg-by-leg verdicts — Muir's framework distinction is **what regime is the rate response in?** Removal-of-easing is operative; actual-hikes is not. Once the easing is gone (as of mid-April), the Bernanke channel takes over by default. See also [[FedLookThrough]] for the 2007–2008 historical analog (Fed cut into a $55→$145 oil spike).
+
 ## Connections
 - [[KevinMuir]]
 - [[WTI]]
 - [[CrackSpreads]]
 - [[CreditCycle]]
 - [[JeromePowell]]
+- [[FedLookThrough]]
+- [[RemovalOfEasingVsHikes]]
+- [[STIRSpecialistHedgeFunds]]

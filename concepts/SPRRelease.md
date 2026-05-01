@@ -2,8 +2,8 @@
 title: "SPR Release (April 2026)"
 type: concept
 tags: [oil, policy, spr, crisis]
-sources: [we-need-to-talk-about-interest-rates-and-oil, making-macro-great-again-quick-updates, the-north-star-vs-liquidity, macrovoices-528-rory-johnston]
-last_updated: 2026-04-12
+sources: [we-need-to-talk-about-interest-rates-and-oil, making-macro-great-again-quick-updates, the-north-star-vs-liquidity, macrovoices-528-rory-johnston, wctw-the-oil-market-breaking-point, wctw-the-oil-market-breaking-point-is-here, geopolitical-cousins-rory-johnston]
+last_updated: 2026-04-24
 ---
 
 # Emergency SPR Release (March 2026)
@@ -29,6 +29,31 @@ A key Johnston update on 16 April 2026 that adds a new dimension:
 - If sustained, Iran's ~2mmbpd comes off the market → **shut-in Gulf production goes from 13mmbpd to 15mmbpd.**
 - Strategic rationale: until now, Iran captured windfall export profits during the war. The blockade makes Tehran share the pain. But Rory's warning: "battle of patience between Tehran and Trump on who's willing to bear the pain longer — and the pressure on the global economy keeps building while both sides wait."
 
+## HFI's arithmetic on what the SPR actually bought (per [[wctw-the-oil-market-breaking-point]])
+[[HFIResearch]]'s 26 March WCTW piece quantifies the exact bridge the 400mmbbl release provided:
+- **Scenarios with the SPR credited:**
+  - Ends this week (late March): net balance −50mmbbl → Brent mid-to-high $80s.
+  - Ends mid-April: net balance −210mmbbl → Brent mid-to-high $90s.
+  - Ends end-April: net balance −370mmbbl → Brent **$110–$120 average** for the rest of the year.
+- **Deficit worsens by ~80mmbbl per week** that Hormuz remains closed — so the 400mmbbl SPR buys roughly 5 weeks of cushion at the margin before the market has to either see tanker-flow resumption or a second SPR release.
+- **If the "breaking point" is crossed:** [[IEA]] needs to coordinate another ~400mmbbl release *or* oil goes to demand-destruction levels ($200+). See [[OilMarketBreakingPoint]].
+- HFI's hypothetical downside case: a peace deal by March 15 would have produced net +110mmbbl (400mmbbl SPR − 290mmbbl lost) → Brent to mid-$70s. The market never tested this path; the deal did not arrive.
+
+## HFI's 139mmbbl US cumulative figure (per [[wctw-the-oil-market-breaking-point-is-here]], 20 April 2026)
+HFI's updated end-of-July model includes a cumulative **~139mmbbl US SPR release**. Cross-checks with Paulo's structural-ceiling math in [[making-macro-great-again-quick-updates]]:
+- US SPR pre-war: 415mmbbl.
+- 415 − 139 ≈ **276mmbbl** by end-July — inside Paulo's 150–250mmbbl salt-cavern-structural-limit warning, but closing in on it.
+- The 400mmbbl global total (announced March) is **only ~35% US-sourced** so far by HFI's estimate. The rest must come from Asia, Europe, reserves.
+- At this pace, any second 400mmbbl coordinated release would almost certainly require the US to violate its salt-cavern structural floor — matching Paulo's argument that a second US tranche would be physically damaging to the cavern infrastructure.
+
+## Johnston's "two more releases" base case (per [[geopolitical-cousins-rory-johnston]], 23 April 2026)
+[[RoryJohnston]]'s most explicit SPR math in the wiki:
+- **Total global strategic + commercial-mandated stocks: ~1.2bn bbls** across IEA members and comparable non-IEA reserves.
+- First coordinated release = 400mmbbl = **one-third** of total global capacity = largest ever by >2x.
+- Johnston's base case: **a second ~400mmbbl release is increasingly likely.** In principle you could do this two more times before exhausting the reserves, which would be "enough to absorb the lion's share of the deficit" under a continued-closure scenario.
+- **Post-crisis refill obligation = durable demand sink.** In Rory's model, SPR *draws* are treated as supply (shifts curve right); SPR *refills* are treated as demand (shifts curve left). Non-IEA countries in Asia are very likely to build new strategic reserves after this crisis given the proven tail risk of [[StraitOfHormuz]] closure — that demand will manifest on the other side.
+- **Implicit probability update:** Johnston now prices Hormuz closure at ~10% on any given year (vs. <1% three months ago) — meaning every energy-consuming country has permanently updated its required strategic-inventory level higher.
+
 ## Why it matters for the wiki
 - Reinforces the [[PauloMacro]] framing in [[jumping-the-shark-again]] that "all available product — any grade, any owner, including SPR" is being forced to market: a supply-shock regime destroys the shut-in option. The SPR release is exactly that dynamic at policy level.
 - Tamping price to $93 is not the same as resolving the shock — it just delays the [[CrackSpreads]] rollover mechanic that Paulo argues will drive crude higher from here, not lower.
@@ -40,3 +65,5 @@ A key Johnston update on 16 April 2026 that adds a new dimension:
 - [[CrackSpreads]]
 - [[PauloMacro]]
 - [[KevinMuir]]
+- [[HFIResearch]]
+- [[OilMarketBreakingPoint]]

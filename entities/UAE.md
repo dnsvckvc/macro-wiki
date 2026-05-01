@@ -2,17 +2,19 @@
 title: "UAE (United Arab Emirates)"
 type: entity
 tags: [country, oil, opec, gcc, middle-east]
-sources: [oil-and-retail]
-last_updated: 2026-04-21
+sources: [oil-and-retail, wctw-the-oil-market-breaking-point]
+last_updated: 2026-04-23
 ---
 
 # United Arab Emirates (UAE)
 
-GCC member state and OPEC+ producer. Operates the **Fujairah** terminal on the Gulf of Oman — the key outlet that bypasses the [[StraitOfHormuz]] choke point.
+GCC member state and OPEC+ producer. Operates the **Habshan–Fujairah** pipeline and Fujairah terminal on the Gulf of Oman — the key outlet that bypasses the [[StraitOfHormuz]] choke point.
 
-## April 2026 position (per [[oil-and-retail]])
-- **~1.6mmbpd of production shut in.**
-- Remaining exports running via the Abu Dhabi–Fujairah pipeline, outside of Hormuz.
+## April 2026 position
+Per [[HFIResearch]] in [[wctw-the-oil-market-breaking-point]] (26 March 2026):
+- **~1.8mmbpd of production shut in.**
+- **Habshan–Fujairah pipeline maxed out at ~1.8mmbpd** (Gulf of Oman outlet).
+- Per [[PauloMacro]] in [[oil-and-retail]] (21 April 2026): ~1.6mmbpd shut in — the ~0.2mmbpd discrepancy with HFI's 26 March figure likely reflects a small amount of Fujairah-routed barrels coming back online between late March and late April rather than an analytical disagreement.
 - Paired with [[SaudiArabia]]'s ~3mmbpd shut-in via Yanbu (Red Sea), forms the GCC's combined "max bypass exports, not a drop more" shut-in strategy.
 
 ## Role in the Big-Beautiful-Deal scenario
@@ -20,9 +22,13 @@ UAE shares Saudi's Nash-optimal response to any Iran-Hormuz deal: keep the curre
 
 ## Connections
 - [[SaudiArabia]]
+- [[Iraq]]
+- [[Kuwait]]
 - [[OPEC]]
 - [[StraitOfHormuz]]
 - [[PauloMacro]]
+- [[HFIResearch]]
 - [[NashEquilibrium]]
 - [[NorthStar]]
 - [[oil-and-retail]]
+- [[wctw-the-oil-market-breaking-point]]

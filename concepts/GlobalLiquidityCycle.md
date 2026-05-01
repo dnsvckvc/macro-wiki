@@ -2,8 +2,8 @@
 title: "Global Liquidity Cycle"
 type: concept
 tags: [liquidity, macro, cycle, crossborder-capital, howell]
-sources: [the-liquidity-tide-goes-out, risks-of-another-financial-crisis-part-1, bond-markets-point-the-way]
-last_updated: 2026-04-12
+sources: [the-liquidity-tide-goes-out, risks-of-another-financial-crisis-part-1, bond-markets-point-the-way, crypto-gold-pboc-vs-fed, treasury-qe-warsh-fed-eclipsed]
+last_updated: 2026-04-27
 ---
 
 # Global Liquidity Cycle
@@ -54,6 +54,30 @@ Bond term premia are already falling across most major markets (except Japan/Chi
 3. **The Coming Squeeze (Projected):** The [[WallOfDebt]] (~$45T advanced, ~$65T global by 2030) forces the debt/liquidity ratio above 2.0x in 2026 and toward 2.3x by 2030. Next liquidity trough projected ~2027.
 4. [Part 2: Crisis indicators — not yet in the wiki.]
 
+## The Three Engines of Global Liquidity (per [[crypto-gold-pboc-vs-fed]], 27 April 2026)
+
+Howell's late-April crystallization of *what creates incremental Global Liquidity*:
+
+| Engine | Status (April 2026) | Mechanism |
+|---|---|---|
+| **US Federal Reserve** | Stalling — RMP "front-loaded" ahead of April 15 | [[ReserveManagementPurchases]] + balance-sheet ops + bank-reg changes (eSLR) |
+| **[[PBOC]]** | Disappointing — easing has stalled | Cumulative Chinese central-bank stimulus |
+| **[[MOVEIndex]]** | "Decent but remains vulnerable" | Low bond vol → Treasury buybacks (~$30bn per 10pt) + supports [[BasisTrade]] |
+
+*"Two of the three main engines of Global Liquidity creation are stalling (US Fed and PBoC), and while the third (MOVE Index) looks decent again, it remains vulnerable."*
+
+This is the operating taxonomy for the *incremental* dial; the [[DebtLiquidityRatio]] is the *systemic* dial.
+
+## The Four-Signal Warning Watchlist (per [[crypto-gold-pboc-vs-fed]])
+Howell's explicit dashboard for the move from Speculation → Turbulence:
+1. **SOFR spreads** (Fed funds and 2-year) must remain near zero.
+2. **[[MOVEIndex]]** stay around 80 or below.
+3. **US Treasury 10-2 yield curve** — avoid bearish flattening.
+4. **[[Gold]] bullion and [[Crypto]] prices** — do not break lower.
+
+## Twin Paradoxes (per [[crypto-gold-pboc-vs-fed]])
+Howell's first-principles foundation for *why* liquidity-cycle turns are dangerous: see [[TwinParadoxesOfLiquidity]]. The two paradoxes are the micro-foundations of the cycle — paradox #1 (debt↔liquidity collateral loop) explains the [[DebtLiquidityRatio]] danger threshold; paradox #2 (real-vs-financial competing uses) explains the level-vs-momentum split.
+
 ## Connections
 - [[MichaelHowell]]
 - [[DebtLiquidityRatio]]
@@ -63,3 +87,10 @@ Bond term premia are already falling across most major markets (except Japan/Chi
 - [[RollingVARShock]]
 - [[AnatomyOfACrash]]
 - [[NorthStar]]
+- [[MOVEIndex]]
+- [[ReserveManagementPurchases]]
+- [[TwinParadoxesOfLiquidity]]
+- [[Crypto]]
+- [[StealthAccord]]
+- [[TreasuryQE]]
+- [[CollateralMultiplier]]

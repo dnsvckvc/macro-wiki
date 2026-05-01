@@ -2,8 +2,8 @@
 title: "Paulo Macro"
 type: entity
 tags: [person, author, macro, trader, energy, copper]
-sources: [liquidity-drains, liquidity-drains-redux, oil-has-turned-a-very-big-corner, intensely-concerned-for-risk-with-a-catch, tom-hanks-has-covid, oil-jobs-bond-failure-and-other-fun, make-1973-great-again, jumping-the-shark-when-a-taco-is-not-a-taco, making-macro-great-again-quick-updates, crack-spreads-are-the-tell, economic-data-copper-rollovers-and-more, jumping-the-shark-again, the-anatomy-of-a-crash, the-anatomy-of-a-crash-revisited, the-north-star-vs-liquidity, oil-and-retail]
-last_updated: 2026-04-21
+sources: [liquidity-drains, liquidity-drains-redux, oil-has-turned-a-very-big-corner, intensely-concerned-for-risk-with-a-catch, tom-hanks-has-covid, oil-jobs-bond-failure-and-other-fun, make-1973-great-again, jumping-the-shark-when-a-taco-is-not-a-taco, making-macro-great-again-quick-updates, crack-spreads-are-the-tell, economic-data-copper-rollovers-and-more, jumping-the-shark-again, the-anatomy-of-a-crash, the-anatomy-of-a-crash-revisited, the-north-star-vs-liquidity, oil-and-retail, jgbs-usdjpy-us10y-volatility]
+last_updated: 2026-04-27
 ---
 
 # Paulo Macro
@@ -118,3 +118,5 @@ Independent macro trader and Substack writer, also known as **"Cloudbear"**. Cro
 - [[USO]]
 - [[VolatilityDrag]]
 - [[BruceKovner]]
+- [[YenCarryTrade]]
+- [[LedgerToRealWorldThesis]]

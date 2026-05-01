@@ -2,8 +2,8 @@
 title: "Gold"
 type: concept
 tags: [commodity, metals, central-banks, reserve-asset]
-sources: [buying-gold-again, the-anatomy-of-a-crash, make-1973-great-again, macrovoices-527-adam-rozencwajg, macrovoices-528-luke-gromen, making-sense-of-the-last-two-months, geopolitics-doesnt-change-prices-in-the-long-run]
-last_updated: 2026-04-19
+sources: [buying-gold-again, the-anatomy-of-a-crash, make-1973-great-again, macrovoices-527-adam-rozencwajg, macrovoices-528-luke-gromen, making-sense-of-the-last-two-months, geopolitics-doesnt-change-prices-in-the-long-run, macrovoices-529-ole-hansen, crypto-gold-pboc-vs-fed]
+last_updated: 2026-04-27
 ---
 
 # Gold
@@ -52,10 +52,34 @@ Between the two, oil is likely to outperform gold for "a couple of years" — pr
 ## The "long gold / short Treasuries" trade (per [[macrovoices-528-luke-gromen]])
 [[LukeGromen]]'s cleanest expression of the multi-year regime shift: **long-term US Treasury bond futures priced in gold are down 90% since 2014.** A one-way trade at a 45-degree angle with minimal drawdowns. "The dream trade for a macro." It reflects the structural handoff from foreign central banks as patient UST creditors to foreign central banks as gold accumulators — while [[BasisTrade]] hot money from the Cayman Islands filled the gap on the UST side. This is the mechanical expression of Muir's [[LedgerToRealWorldThesis]] in price action.
 
+## Hansen's near-term tactical level ([[macrovoices-529-ole-hansen]])
+[[OleHansen]] in the 23 April MacroVoices interview adds the practical positioning context for late April:
+- The ~$1,500 correction held the **200-day moving average at the 50% retracement** of the big sell-off — *"a strong level of support."*
+- Pattern matches **Liberation Day, the dot-com bubble, and the GFC**: initial gold sell-off → strong recovery to new highs in subsequent quarters.
+- **Critical level:** ~$4,500–$4,600 area; if broken, *"I would also get a bit nervous."*
+- Eric Townsend overlay: $4,685 = 38.2% Fib retracement is the line below which "much more downside is possible, maybe even new cycle lows below $4,100."
+- Dollar overlay: market just went through "massive amount of dollar short covering" → biggest dollar long in two years from biggest short. Now tapering. *"The low point or the recovery scene recently is also a sign that the dollar is starting to send a little bit of mixed signals."* Implies gold should resume.
+- Big-picture: *"The foundation that was laid and sowed in the previous years for this multi-year bull run has not suddenly died a sudden death. The correction was necessary."*
+
+## Howell's PBoC-stall headwind ([[crypto-gold-pboc-vs-fed]])
+[[MichaelHowell]] publishes the explicit causal chart linking **cumulative PBoC liquidity injections to the bullion price** — *"a clear cause and effect from the PBoC to the bullion price."* As of late April 2026, the PBoC has **stalled** its expected aggressive easing (likely Iran-driven), removing the cumulative-stimulus tailwind that had been driving gold for the cycle.
+
+This adds a **third attribution** to the gold consolidation that complements the prior two:
+- [[KevinMuir]]: positioning unwind (Gulf cash calls + Turkey wartime selling).
+- [[OleHansen]]: 200-day MA technical at the 50% Fib retracement.
+- **Howell:** policy — PBoC easing pause.
+
+The three are complementary, not competing. Muir explains *correction shape*, Hansen the *technical floor*, Howell the *consolidation duration*.
+
+Howell co-listed with [[Crypto]] as one of his **four warning indicators** — *"Gold bullion and crypto prices — do not break lower."* If gold breaks lower from this consolidation, the [[GlobalLiquidityCycle]] is moving from Speculation to Turbulence.
+
 ## Connections
 - [[PBOC]]
 - [[AdamRozencwajg]]
 - [[LukeGromen]]
+- [[OleHansen]]
+- [[MichaelHowell]]
+- [[Crypto]]
 - [[LedgerToRealWorldThesis]]
 - [[KevinMuir]]
 - [[RollingVARShock]]

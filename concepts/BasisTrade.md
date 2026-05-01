@@ -2,8 +2,8 @@
 title: "Basis Trade"
 type: concept
 tags: [rates, treasury, hedge-fund, arbitrage, market-structure]
-sources: [making-macro-great-again-quick-updates, the-anatomy-of-a-crash, risks-of-another-financial-crisis-part-1, macrovoices-528-luke-gromen]
-last_updated: 2026-04-12
+sources: [making-macro-great-again-quick-updates, the-anatomy-of-a-crash, risks-of-another-financial-crisis-part-1, macrovoices-528-luke-gromen, treasury-qe-warsh-fed-eclipsed]
+last_updated: 2026-04-27
 ---
 
 # Basis Trade
@@ -29,6 +29,23 @@ The most load-bearing number on foreign UST demand: per an October 2025 Fed whit
 ## Structural context: Howell's [[DebtLiquidityRatio]] (per [[risks-of-another-financial-crisis-part-1]])
 [[MichaelHowell]]'s framework explains *why* the basis trade is under stress at this particular moment: 77% of global lending is collateral-based (World Bank), mostly transacted via repo. The [[DebtLiquidityRatio]] is rising as the [[WallOfDebt]] arrives and the [[GlobalLiquidityCycle]] turns down. Collateral is getting structurally scarcer relative to the debt it supports. The basis trade — which relies on cheap collateral and tight spreads — is an early casualty of this mismatch.
 
+## The Stealth-Accord moral-hazard view (per [[treasury-qe-warsh-fed-eclipsed]])
+
+[[MichaelHowell]]'s 25 April 2026 piece adds the *coiled-spring* framing that brings Paulo's "quietly unwinding" observation, Gromen's Cayman Islands data, and the Stealth Accord into a single coherent picture:
+
+> *"Hedge funds have become the marginal buyers of Treasuries. Foreign demand (currency hedged) has faded. Hedge funds use cash Treasuries as collateral to borrow in repo markets, funding leveraged derivative positions — basis trades, yield curve arbitrage, even crypto and stock futures. This compresses volatility like a coiled spring, but only for as long as repo markets stay stable."*
+
+The moral hazard from the [[StealthAccord]]:
+> *"Markets have come to expect Treasury buybacks whenever volatility rises. This can encourage excessive leverage in hedge fund basis trades. Why hedge and avoid volatility when the Treasury caps it for you?"*
+
+The unwind chain (per Howell): SOFR spikes or haircuts rise → hedge funds face rapid deleveraging → forced selling of Treasuries into illiquid market. **March 2020 COVID is the precedent.**
+
+The basis trade is now load-bearing in *both* directions:
+- **Up:** as the marginal buyer of Treasuries, basis-trade leverage suppresses MOVE → expands the [[CollateralMultiplier]] → expands Global Liquidity. Bullish in calm regimes.
+- **Down:** as the marginal seller in stress, the unwind feeds the same [[CollateralMultiplier]] mechanism in reverse — haircuts rise, re-hypothecation reverses, liquidity contracts mechanically.
+
+This is the wiki's clearest explanation for *why* the [[StealthAccord]] is "ingenious but fragile": the same mechanism that creates effortless liquidity in calm regimes destroys it in crisis regimes.
+
 ## Connections
 - [[PauloMacro]]
 - [[SwapSpreads]]
@@ -39,3 +56,7 @@ The most load-bearing number on foreign UST demand: per an October 2025 Fed whit
 - [[WallOfDebt]]
 - [[MichaelHowell]]
 - [[LukeGromen]]
+- [[StealthAccord]]
+- [[TreasuryQE]]
+- [[CollateralMultiplier]]
+- [[MOVEIndex]]

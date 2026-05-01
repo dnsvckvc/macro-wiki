@@ -2,8 +2,8 @@
 title: "Wheat"
 type: concept
 tags: [commodity, agriculture, geopolitical-vix, food-security]
-sources: [make-1973-great-again, macrovoices-527-adam-rozencwajg, macrovoices-524-simon-white]
-last_updated: 2026-04-12
+sources: [make-1973-great-again, macrovoices-527-adam-rozencwajg, macrovoices-524-simon-white, macrovoices-529-ole-hansen]
+last_updated: 2026-04-23
 ---
 
 # Wheat
@@ -41,10 +41,19 @@ Rozencwajg provides the fundamentals/geology-level confirmation of the razor-edg
 - Mechanism: higher fertilizer → farmers reduce applications → lower yields → food prices rise → second-round effects into core inflation → sticky stagflation.
 - Implication: the food shock is ~6 months behind the energy shock. If Hormuz stays compromised, 2026 H2 food CPI will be the sequel.
 
+## Hansen's curve and pairs-trade context ([[macrovoices-529-ole-hansen]])
+- **Wheat curve as of April 2026:** front month ~$6/bushel; December (new crop) ~$6.40/bushel. Modest contango (~7%).
+- Compared to other ag commodities: soybean oil already in backwardation (biofuel link); coffee in decent backwardation; wheat and corn still ~10% one-year contango. *"Moving towards anything less than 5%, which is basically a reflection of the one-year funding cost… means we are moving towards a tightening market."*
+- Hansen on Eric Townsend's proposed **long Dec 26 wheat / short Nov 26 soybeans pairs trade**: directionally reasonable on a pure nutrient-balance basis (wheat is nitrogen-intensive, soybean is least). But Hansen frames the *new-crop* trade as: *"if you want to trade what's coming out of the ground in the coming months, you will be looking at December corn, December wheat, and November soybeans."*
+- Hansen places agriculture as the **next leg** of the [[CommoditySupercycle]] — *"metals were the driver last year, energy was the driver at the start of the year, potentially agriculture become another driver as we move into the second half and into 2027."* Sector total return only +1.3% (1y) / +5% (2y) — late on the cycle, opportunity ahead not behind.
+- *"Talk about wheat prices doubling, that's a complete different in terms of global food security and what it does to nations."*
+
 ## Connections
 - [[PauloMacro]]
 - [[AdamRozencwajg]]
 - [[SimonWhite]]
+- [[OleHansen]]
 - [[LeShrub]] — discussed the wheat trade with Paulo
 - [[StraitOfHormuz]] — the oil-crisis driver of fertilizer costs
 - [[CreditCycle]] — food inflation compounds the consumer squeeze
+- [[CommoditySupercycle]] — wheat as the marker of the agriculture leg
